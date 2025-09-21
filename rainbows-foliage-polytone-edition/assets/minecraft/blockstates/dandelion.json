@@ -1,0 +1,91 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/dandelion",
+        "y": -40,
+        "yoffset": -0.09
+      },
+      {
+        "model": "minecraft:block/dandelion",
+        "y": -35,
+        "yoffset": -0.29
+      },
+      {
+        "model": "minecraft:block/dandelion",
+        "y": -30,
+        "yoffset": -0.3
+      },
+      {
+        "model": "minecraft:block/dandelion",
+        "y": -25,
+        "yoffset": -0.29
+      },
+      {
+        "model": "minecraft:block/dandelion",
+        "y": -20,
+        "yoffset": -0.27
+      },
+      {
+        "model": "minecraft:block/dandelion",
+        "y": -15,
+        "yoffset": -0.14
+      },
+      {
+        "model": "minecraft:block/dandelion",
+        "y": -10,
+        "yoffset": -0.35
+      },
+      {
+        "model": "minecraft:block/dandelion",
+        "y": -5,
+        "yoffset": -0.36
+      },
+      {
+        "model": "minecraft:block/dandelion",
+        "y": 0,
+        "yoffset": -0.37
+      },
+      {
+        "model": "minecraft:block/dandelion",
+        "y": 5,
+        "yoffset": -0.17
+      },
+      {
+        "model": "minecraft:block/dandelion",
+        "y": 10,
+        "yoffset": -0.05
+      },
+      {
+        "model": "minecraft:block/dandelion",
+        "y": 15,
+        "yoffset": -0.26
+      },
+      {
+        "model": "minecraft:block/dandelion",
+        "y": 20,
+        "yoffset": -0.01
+      },
+      {
+        "model": "minecraft:block/dandelion",
+        "y": 25,
+        "yoffset": -0.09
+      },
+      {
+        "model": "minecraft:block/dandelion",
+        "y": 30,
+        "yoffset": -0.44
+      },
+      {
+        "model": "minecraft:block/dandelion",
+        "y": 35,
+        "yoffset": -0.29
+      },
+      {
+        "model": "minecraft:block/dandelion",
+        "y": 40,
+        "yoffset": -0.25
+      }
+    ]
+  }
+}

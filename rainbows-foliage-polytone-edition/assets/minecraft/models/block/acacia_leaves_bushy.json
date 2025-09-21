@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_leaves",
+  "textures": {
+    "all": "minecraft:block/acacia_leaves",
+    "bushy": "minecraft:block/acacia_leaves_bushy"
+  }
+}

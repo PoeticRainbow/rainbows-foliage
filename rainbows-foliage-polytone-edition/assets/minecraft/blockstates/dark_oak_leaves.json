@@ -1,0 +1,198 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/dark_oak_leaves_bushy",
+        "x": 4,
+        "y": -36,
+        "z": -24
+      },
+      {
+        "model": "minecraft:block/dark_oak_leaves_bushy",
+        "x": -8,
+        "y": 6,
+        "z": 4
+      },
+      {
+        "model": "minecraft:block/dark_oak_leaves_bushy",
+        "x": -1,
+        "y": 28,
+        "z": 39
+      },
+      {
+        "model": "minecraft:block/dark_oak_leaves_bushy",
+        "x": 33,
+        "y": -40,
+        "z": 10
+      },
+      {
+        "model": "minecraft:block/dark_oak_leaves_bushy",
+        "x": 38,
+        "y": -23,
+        "z": -41
+      },
+      {
+        "model": "minecraft:block/dark_oak_leaves_bushy",
+        "x": 42,
+        "y": -23,
+        "z": 29
+      },
+      {
+        "model": "minecraft:block/dark_oak_leaves_bushy",
+        "x": -26,
+        "y": 43,
+        "z": -34
+      },
+      {
+        "model": "minecraft:block/dark_oak_leaves_bushy",
+        "x": -33,
+        "y": -24,
+        "z": 9
+      },
+      {
+        "model": "minecraft:block/dark_oak_leaves_bushy",
+        "x": 20,
+        "y": -36,
+        "z": -33
+      },
+      {
+        "model": "minecraft:block/dark_oak_leaves_bushy",
+        "x": -40,
+        "y": 21,
+        "z": 8
+      },
+      {
+        "model": "minecraft:block/dark_oak_leaves_bushy",
+        "x": -33,
+        "y": -31,
+        "z": -2
+      },
+      {
+        "model": "minecraft:block/dark_oak_leaves_bushy",
+        "x": -33,
+        "y": -5,
+        "z": 23
+      },
+      {
+        "model": "minecraft:block/dark_oak_leaves_bushy",
+        "x": 7,
+        "y": 10,
+        "z": -29
+      },
+      {
+        "model": "minecraft:block/dark_oak_leaves_bushy",
+        "x": 5,
+        "y": 34,
+        "z": -11
+      },
+      {
+        "model": "minecraft:block/dark_oak_leaves_bushy",
+        "x": -23,
+        "y": -37,
+        "z": 35
+      },
+      {
+        "model": "minecraft:block/dark_oak_leaves_bushy",
+        "x": 33,
+        "y": 30,
+        "z": 43
+      },
+      {
+        "model": "minecraft:block/dark_oak_leaves_bushy",
+        "x": 4,
+        "y": 19,
+        "z": 43
+      },
+      {
+        "model": "minecraft:block/dark_oak_leaves_bushy",
+        "x": 39,
+        "y": -21,
+        "z": -44
+      },
+      {
+        "model": "minecraft:block/dark_oak_leaves_bushy",
+        "x": 18,
+        "y": -16,
+        "z": 43
+      },
+      {
+        "model": "minecraft:block/dark_oak_leaves_bushy",
+        "x": -3,
+        "y": -21,
+        "z": -16
+      },
+      {
+        "model": "minecraft:block/dark_oak_leaves_bushy",
+        "x": -35,
+        "y": 26,
+        "z": -25
+      },
+      {
+        "model": "minecraft:block/dark_oak_leaves_bushy",
+        "x": -8,
+        "y": 23,
+        "z": 1
+      },
+      {
+        "model": "minecraft:block/dark_oak_leaves_bushy",
+        "x": -44,
+        "y": -32,
+        "z": 19
+      },
+      {
+        "model": "minecraft:block/dark_oak_leaves_bushy",
+        "x": -13,
+        "y": -27,
+        "z": -24
+      },
+      {
+        "model": "minecraft:block/dark_oak_leaves_bushy",
+        "x": -10,
+        "y": 22,
+        "z": -36
+      },
+      {
+        "model": "minecraft:block/dark_oak_leaves_bushy",
+        "x": -24,
+        "y": -34,
+        "z": -23
+      },
+      {
+        "model": "minecraft:block/dark_oak_leaves_bushy",
+        "x": -13,
+        "y": 18,
+        "z": -17
+      },
+      {
+        "model": "minecraft:block/dark_oak_leaves_bushy",
+        "x": 41,
+        "y": -10,
+        "z": -20
+      },
+      {
+        "model": "minecraft:block/dark_oak_leaves_bushy",
+        "x": 7,
+        "y": 16,
+        "z": 24
+      },
+      {
+        "model": "minecraft:block/dark_oak_leaves_bushy",
+        "x": -42,
+        "y": 10,
+        "z": -9
+      },
+      {
+        "model": "minecraft:block/dark_oak_leaves_bushy",
+        "x": 20,
+        "y": 18,
+        "z": -29
+      },
+      {
+        "model": "minecraft:block/dark_oak_leaves_bushy",
+        "x": -35,
+        "y": 2,
+        "z": -22
+      }
+    ]
+  }
+}

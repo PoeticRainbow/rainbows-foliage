@@ -1,0 +1,91 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/dead_tube_coral_fan",
+        "y": -40,
+        "yoffset": -0.21
+      },
+      {
+        "model": "minecraft:block/dead_tube_coral_fan",
+        "y": -35,
+        "yoffset": -0.45
+      },
+      {
+        "model": "minecraft:block/dead_tube_coral_fan",
+        "y": -30,
+        "yoffset": -0.26
+      },
+      {
+        "model": "minecraft:block/dead_tube_coral_fan",
+        "y": -25,
+        "yoffset": -0.44
+      },
+      {
+        "model": "minecraft:block/dead_tube_coral_fan",
+        "y": -20,
+        "yoffset": -0.1
+      },
+      {
+        "model": "minecraft:block/dead_tube_coral_fan",
+        "y": -15,
+        "yoffset": -0.36
+      },
+      {
+        "model": "minecraft:block/dead_tube_coral_fan",
+        "y": -10,
+        "yoffset": -0.44
+      },
+      {
+        "model": "minecraft:block/dead_tube_coral_fan",
+        "y": -5,
+        "yoffset": -0.39
+      },
+      {
+        "model": "minecraft:block/dead_tube_coral_fan",
+        "y": 0,
+        "yoffset": -0.06
+      },
+      {
+        "model": "minecraft:block/dead_tube_coral_fan",
+        "y": 5,
+        "yoffset": -0.17
+      },
+      {
+        "model": "minecraft:block/dead_tube_coral_fan",
+        "y": 10,
+        "yoffset": -0.44
+      },
+      {
+        "model": "minecraft:block/dead_tube_coral_fan",
+        "y": 15,
+        "yoffset": -0.27
+      },
+      {
+        "model": "minecraft:block/dead_tube_coral_fan",
+        "y": 20,
+        "yoffset": -0.23
+      },
+      {
+        "model": "minecraft:block/dead_tube_coral_fan",
+        "y": 25,
+        "yoffset": -0.45
+      },
+      {
+        "model": "minecraft:block/dead_tube_coral_fan",
+        "y": 30,
+        "yoffset": -0.21
+      },
+      {
+        "model": "minecraft:block/dead_tube_coral_fan",
+        "y": 35,
+        "yoffset": -0.08
+      },
+      {
+        "model": "minecraft:block/dead_tube_coral_fan",
+        "y": 40,
+        "yoffset": -0.43
+      }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_leaves_no_tint",
+  "textures": {
+    "all": "minecraft:block/cherry_leaves",
+    "bushy": "minecraft:block/cherry_leaves_bushy"
+  }
+}

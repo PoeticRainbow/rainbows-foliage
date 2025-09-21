@@ -1,0 +1,198 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/birch_leaves_bushy",
+        "x": 19,
+        "y": -4,
+        "z": -35
+      },
+      {
+        "model": "minecraft:block/birch_leaves_bushy",
+        "x": -1,
+        "y": -17,
+        "z": 34
+      },
+      {
+        "model": "minecraft:block/birch_leaves_bushy",
+        "x": 13,
+        "y": 7,
+        "z": 7
+      },
+      {
+        "model": "minecraft:block/birch_leaves_bushy",
+        "x": 13,
+        "y": 43,
+        "z": 7
+      },
+      {
+        "model": "minecraft:block/birch_leaves_bushy",
+        "x": 17,
+        "y": -19,
+        "z": 31
+      },
+      {
+        "model": "minecraft:block/birch_leaves_bushy",
+        "x": -17,
+        "y": 42,
+        "z": -18
+      },
+      {
+        "model": "minecraft:block/birch_leaves_bushy",
+        "x": 10,
+        "y": 6,
+        "z": -14
+      },
+      {
+        "model": "minecraft:block/birch_leaves_bushy",
+        "x": -34,
+        "y": 39,
+        "z": 1
+      },
+      {
+        "model": "minecraft:block/birch_leaves_bushy",
+        "x": 15,
+        "y": 35,
+        "z": 26
+      },
+      {
+        "model": "minecraft:block/birch_leaves_bushy",
+        "x": -41,
+        "y": 26,
+        "z": 24
+      },
+      {
+        "model": "minecraft:block/birch_leaves_bushy",
+        "x": -2,
+        "y": -18,
+        "z": -25
+      },
+      {
+        "model": "minecraft:block/birch_leaves_bushy",
+        "x": 2,
+        "y": -37,
+        "z": -7
+      },
+      {
+        "model": "minecraft:block/birch_leaves_bushy",
+        "x": -45,
+        "y": 10,
+        "z": 1
+      },
+      {
+        "model": "minecraft:block/birch_leaves_bushy",
+        "x": -41,
+        "y": 21,
+        "z": -38
+      },
+      {
+        "model": "minecraft:block/birch_leaves_bushy",
+        "x": 25,
+        "y": 35,
+        "z": 19
+      },
+      {
+        "model": "minecraft:block/birch_leaves_bushy",
+        "x": 27,
+        "y": -29,
+        "z": 44
+      },
+      {
+        "model": "minecraft:block/birch_leaves_bushy",
+        "x": -33,
+        "y": -1,
+        "z": 30
+      },
+      {
+        "model": "minecraft:block/birch_leaves_bushy",
+        "x": 31,
+        "y": 30,
+        "z": 19
+      },
+      {
+        "model": "minecraft:block/birch_leaves_bushy",
+        "x": -14,
+        "y": 38,
+        "z": -28
+      },
+      {
+        "model": "minecraft:block/birch_leaves_bushy",
+        "x": -13,
+        "y": 5,
+        "z": 29
+      },
+      {
+        "model": "minecraft:block/birch_leaves_bushy",
+        "x": 2,
+        "y": -26,
+        "z": 16
+      },
+      {
+        "model": "minecraft:block/birch_leaves_bushy",
+        "x": 26,
+        "y": -43,
+        "z": -28
+      },
+      {
+        "model": "minecraft:block/birch_leaves_bushy",
+        "x": 15,
+        "y": 3,
+        "z": -20
+      },
+      {
+        "model": "minecraft:block/birch_leaves_bushy",
+        "x": -21,
+        "y": 33,
+        "z": -38
+      },
+      {
+        "model": "minecraft:block/birch_leaves_bushy",
+        "x": 14,
+        "y": -23,
+        "z": -3
+      },
+      {
+        "model": "minecraft:block/birch_leaves_bushy",
+        "x": -1,
+        "y": -41,
+        "z": 4
+      },
+      {
+        "model": "minecraft:block/birch_leaves_bushy",
+        "x": 36,
+        "y": 7,
+        "z": 12
+      },
+      {
+        "model": "minecraft:block/birch_leaves_bushy",
+        "x": 38,
+        "y": 22,
+        "z": 8
+      },
+      {
+        "model": "minecraft:block/birch_leaves_bushy",
+        "x": -31,
+        "y": -40,
+        "z": 39
+      },
+      {
+        "model": "minecraft:block/birch_leaves_bushy",
+        "x": -20,
+        "y": 39,
+        "z": 12
+      },
+      {
+        "model": "minecraft:block/birch_leaves_bushy",
+        "x": -26,
+        "y": -5,
+        "z": -38
+      },
+      {
+        "model": "minecraft:block/birch_leaves_bushy",
+        "x": -3,
+        "y": -9,
+        "z": -8
+      }
+    ]
+  }
+}

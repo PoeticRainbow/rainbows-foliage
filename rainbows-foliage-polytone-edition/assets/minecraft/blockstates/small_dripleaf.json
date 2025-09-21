@@ -1,0 +1,700 @@
+{
+  "variants": {
+    "facing=east,half=lower": [
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 50,
+        "yoffset": -0.19
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 55,
+        "yoffset": -0.06
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 60,
+        "yoffset": -0.19
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 65,
+        "yoffset": -0.06
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 70,
+        "yoffset": -0.0
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 75,
+        "yoffset": -0.07
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 80,
+        "yoffset": -0.04
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 85,
+        "yoffset": -0.47
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 90,
+        "yoffset": -0.33
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 95,
+        "yoffset": -0.48
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 100,
+        "yoffset": -0.18
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 105,
+        "yoffset": -0.24
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 110,
+        "yoffset": -0.18
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 115,
+        "yoffset": -0.46
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 120,
+        "yoffset": -0.11
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 125,
+        "yoffset": -0.08
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 130,
+        "yoffset": -0.22
+      }
+    ],
+    "facing=east,half=upper": [
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 50,
+        "yoffset": -0.46
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 55,
+        "yoffset": -0.15
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 60,
+        "yoffset": -0.16
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 65,
+        "yoffset": -0.46
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 70,
+        "yoffset": -0.29
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 75,
+        "yoffset": -0.38
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 80,
+        "yoffset": -0.47
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 85,
+        "yoffset": -0.44
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 90,
+        "yoffset": -0.43
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 95,
+        "yoffset": -0.44
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 100,
+        "yoffset": -0.07
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 105,
+        "yoffset": -0.02
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 110,
+        "yoffset": -0.23
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 115,
+        "yoffset": -0.15
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 120,
+        "yoffset": -0.24
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 125,
+        "yoffset": -0.09
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 130,
+        "yoffset": -0.48
+      }
+    ],
+    "facing=north,half=lower": [
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": -40,
+        "yoffset": -0.01
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": -35,
+        "yoffset": -0.05
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": -30,
+        "yoffset": -0.14
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": -25,
+        "yoffset": -0.48
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": -20,
+        "yoffset": -0.2
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": -15,
+        "yoffset": -0.02
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": -10,
+        "yoffset": -0.24
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": -5,
+        "yoffset": -0.22
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 0,
+        "yoffset": -0.16
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 5,
+        "yoffset": -0.25
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 10,
+        "yoffset": -0.17
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 15,
+        "yoffset": -0.44
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 20,
+        "yoffset": -0.15
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 25,
+        "yoffset": -0.47
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 30,
+        "yoffset": -0.19
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 35,
+        "yoffset": -0.3
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 40,
+        "yoffset": -0.23
+      }
+    ],
+    "facing=north,half=upper": [
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": -40,
+        "yoffset": -0.02
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": -35,
+        "yoffset": -0.09
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": -30,
+        "yoffset": -0.02
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": -25,
+        "yoffset": -0.46
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": -20,
+        "yoffset": -0.3
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": -15,
+        "yoffset": -0.26
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": -10,
+        "yoffset": -0.25
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": -5,
+        "yoffset": -0.35
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 0,
+        "yoffset": -0.33
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 5,
+        "yoffset": -0.08
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 10,
+        "yoffset": -0.25
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 15,
+        "yoffset": -0.07
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 20,
+        "yoffset": -0.42
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 25,
+        "yoffset": -0.17
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 30,
+        "yoffset": -0.47
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 35,
+        "yoffset": -0.41
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 40,
+        "yoffset": -0.17
+      }
+    ],
+    "facing=south,half=lower": [
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 140,
+        "yoffset": -0.23
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 145,
+        "yoffset": -0.14
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 150,
+        "yoffset": -0.06
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 155,
+        "yoffset": -0.02
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 160,
+        "yoffset": -0.14
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 165,
+        "yoffset": -0.3
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 170,
+        "yoffset": -0.07
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 175,
+        "yoffset": -0.46
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 180,
+        "yoffset": -0.43
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 185,
+        "yoffset": -0.17
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 190,
+        "yoffset": -0.4
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 195,
+        "yoffset": -0.23
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 200,
+        "yoffset": -0.04
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 205,
+        "yoffset": -0.14
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 210,
+        "yoffset": -0.28
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 215,
+        "yoffset": -0.12
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 220,
+        "yoffset": -0.04
+      }
+    ],
+    "facing=south,half=upper": [
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 140,
+        "yoffset": -0.4
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 145,
+        "yoffset": -0.24
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 150,
+        "yoffset": -0.42
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 155,
+        "yoffset": -0.32
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 160,
+        "yoffset": -0.4
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 165,
+        "yoffset": -0.1
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 170,
+        "yoffset": -0.26
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 175,
+        "yoffset": -0.0
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 180,
+        "yoffset": -0.18
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 185,
+        "yoffset": -0.17
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 190,
+        "yoffset": -0.41
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 195,
+        "yoffset": -0.02
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 200,
+        "yoffset": -0.03
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 205,
+        "yoffset": -0.29
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 210,
+        "yoffset": -0.15
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 215,
+        "yoffset": -0.2
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 220,
+        "yoffset": -0.17
+      }
+    ],
+    "facing=west,half=lower": [
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 230,
+        "yoffset": -0.38
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 235,
+        "yoffset": -0.31
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 240,
+        "yoffset": -0.13
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 245,
+        "yoffset": -0.1
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 250,
+        "yoffset": -0.32
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 255,
+        "yoffset": -0.09
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 260,
+        "yoffset": -0.11
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 265,
+        "yoffset": -0.47
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 270,
+        "yoffset": -0.28
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 275,
+        "yoffset": -0.32
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 280,
+        "yoffset": -0.38
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 285,
+        "yoffset": -0.46
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 290,
+        "yoffset": -0.47
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 295,
+        "yoffset": -0.01
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 300,
+        "yoffset": -0.27
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 305,
+        "yoffset": -0.47
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 310,
+        "yoffset": -0.32
+      }
+    ],
+    "facing=west,half=upper": [
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 230,
+        "yoffset": -0.42
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 235,
+        "yoffset": -0.39
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 240,
+        "yoffset": -0.47
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 245,
+        "yoffset": -0.37
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 250,
+        "yoffset": -0.14
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 255,
+        "yoffset": -0.08
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 260,
+        "yoffset": -0.27
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 265,
+        "yoffset": -0.32
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 270,
+        "yoffset": -0.23
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 275,
+        "yoffset": -0.13
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 280,
+        "yoffset": -0.48
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 285,
+        "yoffset": -0.15
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 290,
+        "yoffset": -0.05
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 295,
+        "yoffset": -0.12
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 300,
+        "yoffset": -0.28
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 305,
+        "yoffset": -0.44
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 310,
+        "yoffset": -0.24
+      }
+    ]
+  }
+}

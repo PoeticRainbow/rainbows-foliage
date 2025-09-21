@@ -1,0 +1,178 @@
+{
+  "variants": {
+    "half=lower": [
+      {
+        "model": "minecraft:block/pitcher_plant_bottom",
+        "y": -40,
+        "yoffset": -0.29
+      },
+      {
+        "model": "minecraft:block/pitcher_plant_bottom",
+        "y": -35,
+        "yoffset": -0.46
+      },
+      {
+        "model": "minecraft:block/pitcher_plant_bottom",
+        "y": -30,
+        "yoffset": -0.32
+      },
+      {
+        "model": "minecraft:block/pitcher_plant_bottom",
+        "y": -25,
+        "yoffset": -0.05
+      },
+      {
+        "model": "minecraft:block/pitcher_plant_bottom",
+        "y": -20,
+        "yoffset": -0.03
+      },
+      {
+        "model": "minecraft:block/pitcher_plant_bottom",
+        "y": -15,
+        "yoffset": -0.06
+      },
+      {
+        "model": "minecraft:block/pitcher_plant_bottom",
+        "y": -10,
+        "yoffset": -0.34
+      },
+      {
+        "model": "minecraft:block/pitcher_plant_bottom",
+        "y": -5,
+        "yoffset": -0.11
+      },
+      {
+        "model": "minecraft:block/pitcher_plant_bottom",
+        "y": 0,
+        "yoffset": -0.41
+      },
+      {
+        "model": "minecraft:block/pitcher_plant_bottom",
+        "y": 5,
+        "yoffset": -0.0
+      },
+      {
+        "model": "minecraft:block/pitcher_plant_bottom",
+        "y": 10,
+        "yoffset": -0.05
+      },
+      {
+        "model": "minecraft:block/pitcher_plant_bottom",
+        "y": 15,
+        "yoffset": -0.45
+      },
+      {
+        "model": "minecraft:block/pitcher_plant_bottom",
+        "y": 20,
+        "yoffset": -0.46
+      },
+      {
+        "model": "minecraft:block/pitcher_plant_bottom",
+        "y": 25,
+        "yoffset": -0.36
+      },
+      {
+        "model": "minecraft:block/pitcher_plant_bottom",
+        "y": 30,
+        "yoffset": -0.31
+      },
+      {
+        "model": "minecraft:block/pitcher_plant_bottom",
+        "y": 35,
+        "yoffset": -0.21
+      },
+      {
+        "model": "minecraft:block/pitcher_plant_bottom",
+        "y": 40,
+        "yoffset": -0.23
+      }
+    ],
+    "half=upper": [
+      {
+        "model": "minecraft:block/pitcher_plant_top",
+        "y": -40,
+        "yoffset": -0.3
+      },
+      {
+        "model": "minecraft:block/pitcher_plant_top",
+        "y": -35,
+        "yoffset": -0.46
+      },
+      {
+        "model": "minecraft:block/pitcher_plant_top",
+        "y": -30,
+        "yoffset": -0.37
+      },
+      {
+        "model": "minecraft:block/pitcher_plant_top",
+        "y": -25,
+        "yoffset": -0.15
+      },
+      {
+        "model": "minecraft:block/pitcher_plant_top",
+        "y": -20,
+        "yoffset": -0.4
+      },
+      {
+        "model": "minecraft:block/pitcher_plant_top",
+        "y": -15,
+        "yoffset": -0.3
+      },
+      {
+        "model": "minecraft:block/pitcher_plant_top",
+        "y": -10,
+        "yoffset": -0.11
+      },
+      {
+        "model": "minecraft:block/pitcher_plant_top",
+        "y": -5,
+        "yoffset": -0.46
+      },
+      {
+        "model": "minecraft:block/pitcher_plant_top",
+        "y": 0,
+        "yoffset": -0.12
+      },
+      {
+        "model": "minecraft:block/pitcher_plant_top",
+        "y": 5,
+        "yoffset": -0.3
+      },
+      {
+        "model": "minecraft:block/pitcher_plant_top",
+        "y": 10,
+        "yoffset": -0.49
+      },
+      {
+        "model": "minecraft:block/pitcher_plant_top",
+        "y": 15,
+        "yoffset": -0.45
+      },
+      {
+        "model": "minecraft:block/pitcher_plant_top",
+        "y": 20,
+        "yoffset": -0.47
+      },
+      {
+        "model": "minecraft:block/pitcher_plant_top",
+        "y": 25,
+        "yoffset": -0.12
+      },
+      {
+        "model": "minecraft:block/pitcher_plant_top",
+        "y": 30,
+        "yoffset": -0.23
+      },
+      {
+        "model": "minecraft:block/pitcher_plant_top",
+        "y": 35,
+        "yoffset": -0.49
+      },
+      {
+        "model": "minecraft:block/pitcher_plant_top",
+        "y": 40,
+        "yoffset": -0.3
+      }
+    ]
+  }
+}

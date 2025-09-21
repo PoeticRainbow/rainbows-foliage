@@ -1,0 +1,198 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/spruce_leaves_bushy",
+        "x": 14,
+        "y": 42,
+        "z": 41
+      },
+      {
+        "model": "minecraft:block/spruce_leaves_bushy",
+        "x": 24,
+        "y": 31,
+        "z": 1
+      },
+      {
+        "model": "minecraft:block/spruce_leaves_bushy",
+        "x": -21,
+        "y": 25,
+        "z": -13
+      },
+      {
+        "model": "minecraft:block/spruce_leaves_bushy",
+        "x": -13,
+        "y": 33,
+        "z": -33
+      },
+      {
+        "model": "minecraft:block/spruce_leaves_bushy",
+        "x": 43,
+        "y": -31,
+        "z": -13
+      },
+      {
+        "model": "minecraft:block/spruce_leaves_bushy",
+        "x": -25,
+        "y": 12,
+        "z": -31
+      },
+      {
+        "model": "minecraft:block/spruce_leaves_bushy",
+        "x": -34,
+        "y": 10,
+        "z": -11
+      },
+      {
+        "model": "minecraft:block/spruce_leaves_bushy",
+        "x": 24,
+        "y": 28,
+        "z": -7
+      },
+      {
+        "model": "minecraft:block/spruce_leaves_bushy",
+        "x": -14,
+        "y": -11,
+        "z": -14
+      },
+      {
+        "model": "minecraft:block/spruce_leaves_bushy",
+        "x": -17,
+        "y": 20,
+        "z": -7
+      },
+      {
+        "model": "minecraft:block/spruce_leaves_bushy",
+        "x": 4,
+        "y": 4,
+        "z": 6
+      },
+      {
+        "model": "minecraft:block/spruce_leaves_bushy",
+        "x": 35,
+        "y": 5,
+        "z": 0
+      },
+      {
+        "model": "minecraft:block/spruce_leaves_bushy",
+        "x": -9,
+        "y": 33,
+        "z": 37
+      },
+      {
+        "model": "minecraft:block/spruce_leaves_bushy",
+        "x": -23,
+        "y": -14,
+        "z": 3
+      },
+      {
+        "model": "minecraft:block/spruce_leaves_bushy",
+        "x": 26,
+        "y": -29,
+        "z": -29
+      },
+      {
+        "model": "minecraft:block/spruce_leaves_bushy",
+        "x": 16,
+        "y": 8,
+        "z": 0
+      },
+      {
+        "model": "minecraft:block/spruce_leaves_bushy",
+        "x": -41,
+        "y": -14,
+        "z": 3
+      },
+      {
+        "model": "minecraft:block/spruce_leaves_bushy",
+        "x": -17,
+        "y": -36,
+        "z": -6
+      },
+      {
+        "model": "minecraft:block/spruce_leaves_bushy",
+        "x": -37,
+        "y": 39,
+        "z": -40
+      },
+      {
+        "model": "minecraft:block/spruce_leaves_bushy",
+        "x": 26,
+        "y": -3,
+        "z": -41
+      },
+      {
+        "model": "minecraft:block/spruce_leaves_bushy",
+        "x": -6,
+        "y": 23,
+        "z": 29
+      },
+      {
+        "model": "minecraft:block/spruce_leaves_bushy",
+        "x": -2,
+        "y": 23,
+        "z": -14
+      },
+      {
+        "model": "minecraft:block/spruce_leaves_bushy",
+        "x": 19,
+        "y": -27,
+        "z": -34
+      },
+      {
+        "model": "minecraft:block/spruce_leaves_bushy",
+        "x": -40,
+        "y": -21,
+        "z": -13
+      },
+      {
+        "model": "minecraft:block/spruce_leaves_bushy",
+        "x": 38,
+        "y": 6,
+        "z": 12
+      },
+      {
+        "model": "minecraft:block/spruce_leaves_bushy",
+        "x": 29,
+        "y": 27,
+        "z": 8
+      },
+      {
+        "model": "minecraft:block/spruce_leaves_bushy",
+        "x": -12,
+        "y": 30,
+        "z": 12
+      },
+      {
+        "model": "minecraft:block/spruce_leaves_bushy",
+        "x": -16,
+        "y": -29,
+        "z": -26
+      },
+      {
+        "model": "minecraft:block/spruce_leaves_bushy",
+        "x": -15,
+        "y": -12,
+        "z": -16
+      },
+      {
+        "model": "minecraft:block/spruce_leaves_bushy",
+        "x": 7,
+        "y": 10,
+        "z": -45
+      },
+      {
+        "model": "minecraft:block/spruce_leaves_bushy",
+        "x": 0,
+        "y": 39,
+        "z": 13
+      },
+      {
+        "model": "minecraft:block/spruce_leaves_bushy",
+        "x": 22,
+        "y": 2,
+        "z": -41
+      }
+    ]
+  }
+}

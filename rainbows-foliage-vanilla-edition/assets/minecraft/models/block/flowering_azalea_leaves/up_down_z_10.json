@@ -1,0 +1,4 @@
+{
+  "parent": "block/template_leaves/up_down_z_10",
+  "textures": {"all": "block/flowering_azalea_leaves_bushy"}
+}

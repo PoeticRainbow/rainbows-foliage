@@ -1,0 +1,4 @@
+{
+  "parent": "block/template_leaves/north_south_x_-35",
+  "textures": {"all": "block/pale_oak_leaves_bushy"}
+}

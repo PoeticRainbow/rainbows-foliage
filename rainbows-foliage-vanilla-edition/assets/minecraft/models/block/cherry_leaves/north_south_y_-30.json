@@ -1,0 +1,4 @@
+{
+  "parent": "block/template_leaves/north_south_y_-30",
+  "textures": {"all": "block/cherry_leaves_bushy"}
+}

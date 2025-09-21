@@ -1,0 +1,91 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/bamboo_sapling",
+        "y": -40,
+        "yoffset": -0.03
+      },
+      {
+        "model": "minecraft:block/bamboo_sapling",
+        "y": -35,
+        "yoffset": -0.4
+      },
+      {
+        "model": "minecraft:block/bamboo_sapling",
+        "y": -30,
+        "yoffset": -0.36
+      },
+      {
+        "model": "minecraft:block/bamboo_sapling",
+        "y": -25,
+        "yoffset": -0.43
+      },
+      {
+        "model": "minecraft:block/bamboo_sapling",
+        "y": -20,
+        "yoffset": -0.36
+      },
+      {
+        "model": "minecraft:block/bamboo_sapling",
+        "y": -15,
+        "yoffset": -0.36
+      },
+      {
+        "model": "minecraft:block/bamboo_sapling",
+        "y": -10,
+        "yoffset": -0.25
+      },
+      {
+        "model": "minecraft:block/bamboo_sapling",
+        "y": -5,
+        "yoffset": -0.29
+      },
+      {
+        "model": "minecraft:block/bamboo_sapling",
+        "y": 0,
+        "yoffset": -0.37
+      },
+      {
+        "model": "minecraft:block/bamboo_sapling",
+        "y": 5,
+        "yoffset": -0.08
+      },
+      {
+        "model": "minecraft:block/bamboo_sapling",
+        "y": 10,
+        "yoffset": -0.49
+      },
+      {
+        "model": "minecraft:block/bamboo_sapling",
+        "y": 15,
+        "yoffset": -0.04
+      },
+      {
+        "model": "minecraft:block/bamboo_sapling",
+        "y": 20,
+        "yoffset": -0.46
+      },
+      {
+        "model": "minecraft:block/bamboo_sapling",
+        "y": 25,
+        "yoffset": -0.1
+      },
+      {
+        "model": "minecraft:block/bamboo_sapling",
+        "y": 30,
+        "yoffset": -0.11
+      },
+      {
+        "model": "minecraft:block/bamboo_sapling",
+        "y": 35,
+        "yoffset": -0.33
+      },
+      {
+        "model": "minecraft:block/bamboo_sapling",
+        "y": 40,
+        "yoffset": -0.49
+      }
+    ]
+  }
+}

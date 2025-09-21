@@ -1,0 +1,91 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/firefly_bush",
+        "y": -40,
+        "yoffset": -0.29
+      },
+      {
+        "model": "minecraft:block/firefly_bush",
+        "y": -35,
+        "yoffset": -0.4
+      },
+      {
+        "model": "minecraft:block/firefly_bush",
+        "y": -30,
+        "yoffset": -0.19
+      },
+      {
+        "model": "minecraft:block/firefly_bush",
+        "y": -25,
+        "yoffset": -0.48
+      },
+      {
+        "model": "minecraft:block/firefly_bush",
+        "y": -20,
+        "yoffset": -0.32
+      },
+      {
+        "model": "minecraft:block/firefly_bush",
+        "y": -15,
+        "yoffset": -0.15
+      },
+      {
+        "model": "minecraft:block/firefly_bush",
+        "y": -10,
+        "yoffset": -0.37
+      },
+      {
+        "model": "minecraft:block/firefly_bush",
+        "y": -5,
+        "yoffset": -0.18
+      },
+      {
+        "model": "minecraft:block/firefly_bush",
+        "y": 0,
+        "yoffset": -0.11
+      },
+      {
+        "model": "minecraft:block/firefly_bush",
+        "y": 5,
+        "yoffset": -0.23
+      },
+      {
+        "model": "minecraft:block/firefly_bush",
+        "y": 10,
+        "yoffset": -0.45
+      },
+      {
+        "model": "minecraft:block/firefly_bush",
+        "y": 15,
+        "yoffset": -0.4
+      },
+      {
+        "model": "minecraft:block/firefly_bush",
+        "y": 20,
+        "yoffset": -0.34
+      },
+      {
+        "model": "minecraft:block/firefly_bush",
+        "y": 25,
+        "yoffset": -0.44
+      },
+      {
+        "model": "minecraft:block/firefly_bush",
+        "y": 30,
+        "yoffset": -0.27
+      },
+      {
+        "model": "minecraft:block/firefly_bush",
+        "y": 35,
+        "yoffset": -0.18
+      },
+      {
+        "model": "minecraft:block/firefly_bush",
+        "y": 40,
+        "yoffset": -0.1
+      }
+    ]
+  }
+}

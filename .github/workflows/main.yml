@@ -1,0 +1,19 @@
+name: Build
+on:
+  push:
+  pull_request:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Upload Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: rainbows-foliage-vanilla-edition-latest
+          path: rainbows-foliage-vanilla-edition/*
+      - name: Upload Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: rainbows-foliage-polytone-edition-latest
+          path: rainbows-foliage-polytone-edition/*

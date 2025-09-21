@@ -1,0 +1,91 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/closed_eyeblossom",
+        "y": -40,
+        "yoffset": -0.35
+      },
+      {
+        "model": "minecraft:block/closed_eyeblossom",
+        "y": -35,
+        "yoffset": -0.33
+      },
+      {
+        "model": "minecraft:block/closed_eyeblossom",
+        "y": -30,
+        "yoffset": -0.43
+      },
+      {
+        "model": "minecraft:block/closed_eyeblossom",
+        "y": -25,
+        "yoffset": -0.11
+      },
+      {
+        "model": "minecraft:block/closed_eyeblossom",
+        "y": -20,
+        "yoffset": -0.42
+      },
+      {
+        "model": "minecraft:block/closed_eyeblossom",
+        "y": -15,
+        "yoffset": -0.35
+      },
+      {
+        "model": "minecraft:block/closed_eyeblossom",
+        "y": -10,
+        "yoffset": -0.37
+      },
+      {
+        "model": "minecraft:block/closed_eyeblossom",
+        "y": -5,
+        "yoffset": -0.1
+      },
+      {
+        "model": "minecraft:block/closed_eyeblossom",
+        "y": 0,
+        "yoffset": -0.02
+      },
+      {
+        "model": "minecraft:block/closed_eyeblossom",
+        "y": 5,
+        "yoffset": -0.28
+      },
+      {
+        "model": "minecraft:block/closed_eyeblossom",
+        "y": 10,
+        "yoffset": -0.4
+      },
+      {
+        "model": "minecraft:block/closed_eyeblossom",
+        "y": 15,
+        "yoffset": -0.4
+      },
+      {
+        "model": "minecraft:block/closed_eyeblossom",
+        "y": 20,
+        "yoffset": -0.47
+      },
+      {
+        "model": "minecraft:block/closed_eyeblossom",
+        "y": 25,
+        "yoffset": -0.5
+      },
+      {
+        "model": "minecraft:block/closed_eyeblossom",
+        "y": 30,
+        "yoffset": -0.39
+      },
+      {
+        "model": "minecraft:block/closed_eyeblossom",
+        "y": 35,
+        "yoffset": -0.3
+      },
+      {
+        "model": "minecraft:block/closed_eyeblossom",
+        "y": 40,
+        "yoffset": -0.23
+      }
+    ]
+  }
+}

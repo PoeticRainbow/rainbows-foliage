@@ -1,0 +1,91 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/nether_sprouts",
+        "y": -40,
+        "yoffset": -0.37
+      },
+      {
+        "model": "minecraft:block/nether_sprouts",
+        "y": -35,
+        "yoffset": -0.39
+      },
+      {
+        "model": "minecraft:block/nether_sprouts",
+        "y": -30,
+        "yoffset": -0.44
+      },
+      {
+        "model": "minecraft:block/nether_sprouts",
+        "y": -25,
+        "yoffset": -0.16
+      },
+      {
+        "model": "minecraft:block/nether_sprouts",
+        "y": -20,
+        "yoffset": -0.27
+      },
+      {
+        "model": "minecraft:block/nether_sprouts",
+        "y": -15,
+        "yoffset": -0.41
+      },
+      {
+        "model": "minecraft:block/nether_sprouts",
+        "y": -10,
+        "yoffset": -0.01
+      },
+      {
+        "model": "minecraft:block/nether_sprouts",
+        "y": -5,
+        "yoffset": -0.43
+      },
+      {
+        "model": "minecraft:block/nether_sprouts",
+        "y": 0,
+        "yoffset": -0.44
+      },
+      {
+        "model": "minecraft:block/nether_sprouts",
+        "y": 5,
+        "yoffset": -0.33
+      },
+      {
+        "model": "minecraft:block/nether_sprouts",
+        "y": 10,
+        "yoffset": -0.43
+      },
+      {
+        "model": "minecraft:block/nether_sprouts",
+        "y": 15,
+        "yoffset": -0.1
+      },
+      {
+        "model": "minecraft:block/nether_sprouts",
+        "y": 20,
+        "yoffset": -0.42
+      },
+      {
+        "model": "minecraft:block/nether_sprouts",
+        "y": 25,
+        "yoffset": -0.42
+      },
+      {
+        "model": "minecraft:block/nether_sprouts",
+        "y": 30,
+        "yoffset": -0.38
+      },
+      {
+        "model": "minecraft:block/nether_sprouts",
+        "y": 35,
+        "yoffset": -0.49
+      },
+      {
+        "model": "minecraft:block/nether_sprouts",
+        "y": 40,
+        "yoffset": -0.26
+      }
+    ]
+  }
+}

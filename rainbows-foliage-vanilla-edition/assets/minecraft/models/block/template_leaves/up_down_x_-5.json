@@ -1,0 +1,14 @@
+{
+  "textures": {"particle": "#all"},
+  "elements": [
+    {
+      "from": [-8, 8, -8],
+      "to": [24, 8, 24], "shade": false,
+      "rotation": {"angle": -5, "axis": "x", "origin": [8, 8, 8]},
+      "faces": {
+        "up": {"uv": [0, 0, 16, 16], "texture": "#all", "tintindex": 0},
+        "down": {"uv": [0, 0, 16, 16], "texture": "#all", "tintindex": 0}
+      }
+    }
+  ]
+}

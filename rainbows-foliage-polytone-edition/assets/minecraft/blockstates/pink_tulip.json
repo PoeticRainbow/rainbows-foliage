@@ -1,0 +1,91 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/pink_tulip",
+        "y": -40,
+        "yoffset": -0.16
+      },
+      {
+        "model": "minecraft:block/pink_tulip",
+        "y": -35,
+        "yoffset": -0.46
+      },
+      {
+        "model": "minecraft:block/pink_tulip",
+        "y": -30,
+        "yoffset": -0.38
+      },
+      {
+        "model": "minecraft:block/pink_tulip",
+        "y": -25,
+        "yoffset": -0.4
+      },
+      {
+        "model": "minecraft:block/pink_tulip",
+        "y": -20,
+        "yoffset": -0.16
+      },
+      {
+        "model": "minecraft:block/pink_tulip",
+        "y": -15,
+        "yoffset": -0.39
+      },
+      {
+        "model": "minecraft:block/pink_tulip",
+        "y": -10,
+        "yoffset": -0.46
+      },
+      {
+        "model": "minecraft:block/pink_tulip",
+        "y": -5,
+        "yoffset": -0.36
+      },
+      {
+        "model": "minecraft:block/pink_tulip",
+        "y": 0,
+        "yoffset": -0.33
+      },
+      {
+        "model": "minecraft:block/pink_tulip",
+        "y": 5,
+        "yoffset": -0.19
+      },
+      {
+        "model": "minecraft:block/pink_tulip",
+        "y": 10,
+        "yoffset": -0.39
+      },
+      {
+        "model": "minecraft:block/pink_tulip",
+        "y": 15,
+        "yoffset": -0.02
+      },
+      {
+        "model": "minecraft:block/pink_tulip",
+        "y": 20,
+        "yoffset": -0.19
+      },
+      {
+        "model": "minecraft:block/pink_tulip",
+        "y": 25,
+        "yoffset": -0.39
+      },
+      {
+        "model": "minecraft:block/pink_tulip",
+        "y": 30,
+        "yoffset": -0.4
+      },
+      {
+        "model": "minecraft:block/pink_tulip",
+        "y": 35,
+        "yoffset": -0.06
+      },
+      {
+        "model": "minecraft:block/pink_tulip",
+        "y": 40,
+        "yoffset": -0.33
+      }
+    ]
+  }
+}

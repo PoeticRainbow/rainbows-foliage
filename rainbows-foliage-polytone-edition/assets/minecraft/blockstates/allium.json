@@ -1,0 +1,91 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/allium",
+        "y": -40,
+        "yoffset": -0.04
+      },
+      {
+        "model": "minecraft:block/allium",
+        "y": -35,
+        "yoffset": -0.28
+      },
+      {
+        "model": "minecraft:block/allium",
+        "y": -30,
+        "yoffset": -0.28
+      },
+      {
+        "model": "minecraft:block/allium",
+        "y": -25,
+        "yoffset": -0.14
+      },
+      {
+        "model": "minecraft:block/allium",
+        "y": -20,
+        "yoffset": -0.14
+      },
+      {
+        "model": "minecraft:block/allium",
+        "y": -15,
+        "yoffset": -0.46
+      },
+      {
+        "model": "minecraft:block/allium",
+        "y": -10,
+        "yoffset": -0.0
+      },
+      {
+        "model": "minecraft:block/allium",
+        "y": -5,
+        "yoffset": -0.19
+      },
+      {
+        "model": "minecraft:block/allium",
+        "y": 0,
+        "yoffset": -0.11
+      },
+      {
+        "model": "minecraft:block/allium",
+        "y": 5,
+        "yoffset": -0.18
+      },
+      {
+        "model": "minecraft:block/allium",
+        "y": 10,
+        "yoffset": -0.17
+      },
+      {
+        "model": "minecraft:block/allium",
+        "y": 15,
+        "yoffset": -0.28
+      },
+      {
+        "model": "minecraft:block/allium",
+        "y": 20,
+        "yoffset": -0.44
+      },
+      {
+        "model": "minecraft:block/allium",
+        "y": 25,
+        "yoffset": -0.25
+      },
+      {
+        "model": "minecraft:block/allium",
+        "y": 30,
+        "yoffset": -0.27
+      },
+      {
+        "model": "minecraft:block/allium",
+        "y": 35,
+        "yoffset": -0.42
+      },
+      {
+        "model": "minecraft:block/allium",
+        "y": 40,
+        "yoffset": -0.37
+      }
+    ]
+  }
+}

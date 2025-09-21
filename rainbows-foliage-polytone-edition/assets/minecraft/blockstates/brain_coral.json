@@ -1,0 +1,91 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/brain_coral",
+        "y": -40,
+        "yoffset": -0.25
+      },
+      {
+        "model": "minecraft:block/brain_coral",
+        "y": -35,
+        "yoffset": -0.07
+      },
+      {
+        "model": "minecraft:block/brain_coral",
+        "y": -30,
+        "yoffset": -0.05
+      },
+      {
+        "model": "minecraft:block/brain_coral",
+        "y": -25,
+        "yoffset": -0.29
+      },
+      {
+        "model": "minecraft:block/brain_coral",
+        "y": -20,
+        "yoffset": -0.3
+      },
+      {
+        "model": "minecraft:block/brain_coral",
+        "y": -15,
+        "yoffset": -0.35
+      },
+      {
+        "model": "minecraft:block/brain_coral",
+        "y": -10,
+        "yoffset": -0.12
+      },
+      {
+        "model": "minecraft:block/brain_coral",
+        "y": -5,
+        "yoffset": -0.07
+      },
+      {
+        "model": "minecraft:block/brain_coral",
+        "y": 0,
+        "yoffset": -0.46
+      },
+      {
+        "model": "minecraft:block/brain_coral",
+        "y": 5,
+        "yoffset": -0.13
+      },
+      {
+        "model": "minecraft:block/brain_coral",
+        "y": 10,
+        "yoffset": -0.29
+      },
+      {
+        "model": "minecraft:block/brain_coral",
+        "y": 15,
+        "yoffset": -0.08
+      },
+      {
+        "model": "minecraft:block/brain_coral",
+        "y": 20,
+        "yoffset": -0.41
+      },
+      {
+        "model": "minecraft:block/brain_coral",
+        "y": 25,
+        "yoffset": -0.35
+      },
+      {
+        "model": "minecraft:block/brain_coral",
+        "y": 30,
+        "yoffset": -0.01
+      },
+      {
+        "model": "minecraft:block/brain_coral",
+        "y": 35,
+        "yoffset": -0.41
+      },
+      {
+        "model": "minecraft:block/brain_coral",
+        "y": 40,
+        "yoffset": -0.19
+      }
+    ]
+  }
+}

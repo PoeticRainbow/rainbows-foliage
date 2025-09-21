@@ -1,0 +1,198 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/pale_oak_leaves_bushy",
+        "x": -5,
+        "y": 39,
+        "z": -38
+      },
+      {
+        "model": "minecraft:block/pale_oak_leaves_bushy",
+        "x": -12,
+        "y": -45,
+        "z": 18
+      },
+      {
+        "model": "minecraft:block/pale_oak_leaves_bushy",
+        "x": -17,
+        "y": 10,
+        "z": 21
+      },
+      {
+        "model": "minecraft:block/pale_oak_leaves_bushy",
+        "x": 18,
+        "y": 21,
+        "z": 14
+      },
+      {
+        "model": "minecraft:block/pale_oak_leaves_bushy",
+        "x": -3,
+        "y": 33,
+        "z": -11
+      },
+      {
+        "model": "minecraft:block/pale_oak_leaves_bushy",
+        "x": -44,
+        "y": -31,
+        "z": -1
+      },
+      {
+        "model": "minecraft:block/pale_oak_leaves_bushy",
+        "x": 43,
+        "y": -36,
+        "z": 5
+      },
+      {
+        "model": "minecraft:block/pale_oak_leaves_bushy",
+        "x": -17,
+        "y": 26,
+        "z": 35
+      },
+      {
+        "model": "minecraft:block/pale_oak_leaves_bushy",
+        "x": -22,
+        "y": -43,
+        "z": -22
+      },
+      {
+        "model": "minecraft:block/pale_oak_leaves_bushy",
+        "x": 32,
+        "y": 3,
+        "z": -3
+      },
+      {
+        "model": "minecraft:block/pale_oak_leaves_bushy",
+        "x": 29,
+        "y": -10,
+        "z": -30
+      },
+      {
+        "model": "minecraft:block/pale_oak_leaves_bushy",
+        "x": -43,
+        "y": 7,
+        "z": -31
+      },
+      {
+        "model": "minecraft:block/pale_oak_leaves_bushy",
+        "x": -12,
+        "y": -33,
+        "z": -15
+      },
+      {
+        "model": "minecraft:block/pale_oak_leaves_bushy",
+        "x": -10,
+        "y": 9,
+        "z": 44
+      },
+      {
+        "model": "minecraft:block/pale_oak_leaves_bushy",
+        "x": 20,
+        "y": 10,
+        "z": -20
+      },
+      {
+        "model": "minecraft:block/pale_oak_leaves_bushy",
+        "x": -42,
+        "y": -33,
+        "z": -31
+      },
+      {
+        "model": "minecraft:block/pale_oak_leaves_bushy",
+        "x": -37,
+        "y": -3,
+        "z": 27
+      },
+      {
+        "model": "minecraft:block/pale_oak_leaves_bushy",
+        "x": 25,
+        "y": 14,
+        "z": 15
+      },
+      {
+        "model": "minecraft:block/pale_oak_leaves_bushy",
+        "x": 19,
+        "y": 7,
+        "z": 24
+      },
+      {
+        "model": "minecraft:block/pale_oak_leaves_bushy",
+        "x": -26,
+        "y": -12,
+        "z": -30
+      },
+      {
+        "model": "minecraft:block/pale_oak_leaves_bushy",
+        "x": -18,
+        "y": -45,
+        "z": 30
+      },
+      {
+        "model": "minecraft:block/pale_oak_leaves_bushy",
+        "x": -8,
+        "y": 1,
+        "z": -45
+      },
+      {
+        "model": "minecraft:block/pale_oak_leaves_bushy",
+        "x": 37,
+        "y": -45,
+        "z": -7
+      },
+      {
+        "model": "minecraft:block/pale_oak_leaves_bushy",
+        "x": -2,
+        "y": -2,
+        "z": 42
+      },
+      {
+        "model": "minecraft:block/pale_oak_leaves_bushy",
+        "x": -23,
+        "y": -23,
+        "z": -43
+      },
+      {
+        "model": "minecraft:block/pale_oak_leaves_bushy",
+        "x": 20,
+        "y": 33,
+        "z": 26
+      },
+      {
+        "model": "minecraft:block/pale_oak_leaves_bushy",
+        "x": -18,
+        "y": -28,
+        "z": -36
+      },
+      {
+        "model": "minecraft:block/pale_oak_leaves_bushy",
+        "x": 22,
+        "y": -25,
+        "z": 38
+      },
+      {
+        "model": "minecraft:block/pale_oak_leaves_bushy",
+        "x": 30,
+        "y": 3,
+        "z": -41
+      },
+      {
+        "model": "minecraft:block/pale_oak_leaves_bushy",
+        "x": 19,
+        "y": 36,
+        "z": 27
+      },
+      {
+        "model": "minecraft:block/pale_oak_leaves_bushy",
+        "x": -6,
+        "y": -23,
+        "z": 0
+      },
+      {
+        "model": "minecraft:block/pale_oak_leaves_bushy",
+        "x": -13,
+        "y": -18,
+        "z": 30
+      }
+    ]
+  }
+}

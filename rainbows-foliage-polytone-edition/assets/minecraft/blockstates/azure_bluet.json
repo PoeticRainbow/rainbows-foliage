@@ -1,0 +1,91 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/azure_bluet",
+        "y": -40,
+        "yoffset": -0.42
+      },
+      {
+        "model": "minecraft:block/azure_bluet",
+        "y": -35,
+        "yoffset": -0.01
+      },
+      {
+        "model": "minecraft:block/azure_bluet",
+        "y": -30,
+        "yoffset": -0.02
+      },
+      {
+        "model": "minecraft:block/azure_bluet",
+        "y": -25,
+        "yoffset": -0.12
+      },
+      {
+        "model": "minecraft:block/azure_bluet",
+        "y": -20,
+        "yoffset": -0.29
+      },
+      {
+        "model": "minecraft:block/azure_bluet",
+        "y": -15,
+        "yoffset": -0.23
+      },
+      {
+        "model": "minecraft:block/azure_bluet",
+        "y": -10,
+        "yoffset": -0.22
+      },
+      {
+        "model": "minecraft:block/azure_bluet",
+        "y": -5,
+        "yoffset": -0.05
+      },
+      {
+        "model": "minecraft:block/azure_bluet",
+        "y": 0,
+        "yoffset": -0.3
+      },
+      {
+        "model": "minecraft:block/azure_bluet",
+        "y": 5,
+        "yoffset": -0.16
+      },
+      {
+        "model": "minecraft:block/azure_bluet",
+        "y": 10,
+        "yoffset": -0.36
+      },
+      {
+        "model": "minecraft:block/azure_bluet",
+        "y": 15,
+        "yoffset": -0.07
+      },
+      {
+        "model": "minecraft:block/azure_bluet",
+        "y": 20,
+        "yoffset": -0.35
+      },
+      {
+        "model": "minecraft:block/azure_bluet",
+        "y": 25,
+        "yoffset": -0.17
+      },
+      {
+        "model": "minecraft:block/azure_bluet",
+        "y": 30,
+        "yoffset": -0.11
+      },
+      {
+        "model": "minecraft:block/azure_bluet",
+        "y": 35,
+        "yoffset": -0.21
+      },
+      {
+        "model": "minecraft:block/azure_bluet",
+        "y": 40,
+        "yoffset": -0.42
+      }
+    ]
+  }
+}

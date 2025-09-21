@@ -1,0 +1,91 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/brown_mushroom",
+        "y": -40,
+        "yoffset": -0.25
+      },
+      {
+        "model": "minecraft:block/brown_mushroom",
+        "y": -35,
+        "yoffset": -0.4
+      },
+      {
+        "model": "minecraft:block/brown_mushroom",
+        "y": -30,
+        "yoffset": -0.18
+      },
+      {
+        "model": "minecraft:block/brown_mushroom",
+        "y": -25,
+        "yoffset": -0.13
+      },
+      {
+        "model": "minecraft:block/brown_mushroom",
+        "y": -20,
+        "yoffset": -0.33
+      },
+      {
+        "model": "minecraft:block/brown_mushroom",
+        "y": -15,
+        "yoffset": -0.48
+      },
+      {
+        "model": "minecraft:block/brown_mushroom",
+        "y": -10,
+        "yoffset": -0.27
+      },
+      {
+        "model": "minecraft:block/brown_mushroom",
+        "y": -5,
+        "yoffset": -0.07
+      },
+      {
+        "model": "minecraft:block/brown_mushroom",
+        "y": 0,
+        "yoffset": -0.47
+      },
+      {
+        "model": "minecraft:block/brown_mushroom",
+        "y": 5,
+        "yoffset": -0.4
+      },
+      {
+        "model": "minecraft:block/brown_mushroom",
+        "y": 10,
+        "yoffset": -0.42
+      },
+      {
+        "model": "minecraft:block/brown_mushroom",
+        "y": 15,
+        "yoffset": -0.09
+      },
+      {
+        "model": "minecraft:block/brown_mushroom",
+        "y": 20,
+        "yoffset": -0.34
+      },
+      {
+        "model": "minecraft:block/brown_mushroom",
+        "y": 25,
+        "yoffset": -0.19
+      },
+      {
+        "model": "minecraft:block/brown_mushroom",
+        "y": 30,
+        "yoffset": -0.22
+      },
+      {
+        "model": "minecraft:block/brown_mushroom",
+        "y": 35,
+        "yoffset": -0.13
+      },
+      {
+        "model": "minecraft:block/brown_mushroom",
+        "y": 40,
+        "yoffset": -0.26
+      }
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/oak_leaves_bushy",
+        "x": -38,
+        "y": -2,
+        "z": 31
+      },
+      {
+        "model": "minecraft:block/oak_leaves_bushy",
+        "x": -1,
+        "y": 14,
+        "z": -29
+      },
+      {
+        "model": "minecraft:block/oak_leaves_bushy",
+        "x": -7,
+        "y": 22,
+        "z": -8
+      },
+      {
+        "model": "minecraft:block/oak_leaves_bushy",
+        "x": -7,
+        "y": 20,
+        "z": 41
+      },
+      {
+        "model": "minecraft:block/oak_leaves_bushy",
+        "x": -36,
+        "y": 28,
+        "z": 3
+      },
+      {
+        "model": "minecraft:block/oak_leaves_bushy",
+        "x": 5,
+        "y": -31,
+        "z": 12
+      },
+      {
+        "model": "minecraft:block/oak_leaves_bushy",
+        "x": 19,
+        "y": -3,
+        "z": 17
+      },
+      {
+        "model": "minecraft:block/oak_leaves_bushy",
+        "x": 26,
+        "y": -31,
+        "z": -5
+      },
+      {
+        "model": "minecraft:block/oak_leaves_bushy",
+        "x": 30,
+        "y": 34,
+        "z": 33
+      },
+      {
+        "model": "minecraft:block/oak_leaves_bushy",
+        "x": -16,
+        "y": -28,
+        "z": 41
+      },
+      {
+        "model": "minecraft:block/oak_leaves_bushy",
+        "x": -16,
+        "y": 35,
+        "z": -39
+      },
+      {
+        "model": "minecraft:block/oak_leaves_bushy",
+        "x": 2,
+        "y": -36,
+        "z": -44
+      },
+      {
+        "model": "minecraft:block/oak_leaves_bushy",
+        "x": 4,
+        "y": 32,
+        "z": -24
+      },
+      {
+        "model": "minecraft:block/oak_leaves_bushy",
+        "x": -9,
+        "y": 6,
+        "z": -17
+      },
+      {
+        "model": "minecraft:block/oak_leaves_bushy",
+        "x": -7,
+        "y": 1,
+        "z": 34
+      },
+      {
+        "model": "minecraft:block/oak_leaves_bushy",
+        "x": 41,
+        "y": 23,
+        "z": 11
+      },
+      {
+        "model": "minecraft:block/oak_leaves_bushy",
+        "x": -20,
+        "y": -36,
+        "z": -45
+      },
+      {
+        "model": "minecraft:block/oak_leaves_bushy",
+        "x": 21,
+        "y": 17,
+        "z": 41
+      },
+      {
+        "model": "minecraft:block/oak_leaves_bushy",
+        "x": -39,
+        "y": 31,
+        "z": 12
+      },
+      {
+        "model": "minecraft:block/oak_leaves_bushy",
+        "x": 32,
+        "y": -21,
+        "z": 42
+      },
+      {
+        "model": "minecraft:block/oak_leaves_bushy",
+        "x": 16,
+        "y": 5,
+        "z": -36
+      },
+      {
+        "model": "minecraft:block/oak_leaves_bushy",
+        "x": -32,
+        "y": -9,
+        "z": 37
+      },
+      {
+        "model": "minecraft:block/oak_leaves_bushy",
+        "x": 1,
+        "y": 18,
+        "z": 14
+      },
+      {
+        "model": "minecraft:block/oak_leaves_bushy",
+        "x": 14,
+        "y": 13,
+        "z": -16
+      },
+      {
+        "model": "minecraft:block/oak_leaves_bushy",
+        "x": -39,
+        "y": 13,
+        "z": -41
+      },
+      {
+        "model": "minecraft:block/oak_leaves_bushy",
+        "x": 26,
+        "y": -31,
+        "z": 38
+      },
+      {
+        "model": "minecraft:block/oak_leaves_bushy",
+        "x": -19,
+        "y": -26,
+        "z": 0
+      },
+      {
+        "model": "minecraft:block/oak_leaves_bushy",
+        "x": -42,
+        "y": 27,
+        "z": -10
+      },
+      {
+        "model": "minecraft:block/oak_leaves_bushy",
+        "x": 26,
+        "y": 5,
+        "z": 2
+      },
+      {
+        "model": "minecraft:block/oak_leaves_bushy",
+        "x": 6,
+        "y": 25,
+        "z": -34
+      },
+      {
+        "model": "minecraft:block/oak_leaves_bushy",
+        "x": 23,
+        "y": 17,
+        "z": -4
+      },
+      {
+        "model": "minecraft:block/oak_leaves_bushy",
+        "x": 34,
+        "y": -5,
+        "z": 2
+      }
+    ]
+  }
+}

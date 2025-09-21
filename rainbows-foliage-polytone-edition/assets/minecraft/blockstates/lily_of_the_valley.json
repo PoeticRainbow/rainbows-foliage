@@ -1,0 +1,91 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/lily_of_the_valley",
+        "y": -40,
+        "yoffset": -0.49
+      },
+      {
+        "model": "minecraft:block/lily_of_the_valley",
+        "y": -35,
+        "yoffset": -0.48
+      },
+      {
+        "model": "minecraft:block/lily_of_the_valley",
+        "y": -30,
+        "yoffset": -0.39
+      },
+      {
+        "model": "minecraft:block/lily_of_the_valley",
+        "y": -25,
+        "yoffset": -0.04
+      },
+      {
+        "model": "minecraft:block/lily_of_the_valley",
+        "y": -20,
+        "yoffset": -0.17
+      },
+      {
+        "model": "minecraft:block/lily_of_the_valley",
+        "y": -15,
+        "yoffset": -0.07
+      },
+      {
+        "model": "minecraft:block/lily_of_the_valley",
+        "y": -10,
+        "yoffset": -0.23
+      },
+      {
+        "model": "minecraft:block/lily_of_the_valley",
+        "y": -5,
+        "yoffset": -0.38
+      },
+      {
+        "model": "minecraft:block/lily_of_the_valley",
+        "y": 0,
+        "yoffset": -0.11
+      },
+      {
+        "model": "minecraft:block/lily_of_the_valley",
+        "y": 5,
+        "yoffset": -0.31
+      },
+      {
+        "model": "minecraft:block/lily_of_the_valley",
+        "y": 10,
+        "yoffset": -0.24
+      },
+      {
+        "model": "minecraft:block/lily_of_the_valley",
+        "y": 15,
+        "yoffset": -0.03
+      },
+      {
+        "model": "minecraft:block/lily_of_the_valley",
+        "y": 20,
+        "yoffset": -0.18
+      },
+      {
+        "model": "minecraft:block/lily_of_the_valley",
+        "y": 25,
+        "yoffset": -0.19
+      },
+      {
+        "model": "minecraft:block/lily_of_the_valley",
+        "y": 30,
+        "yoffset": -0.49
+      },
+      {
+        "model": "minecraft:block/lily_of_the_valley",
+        "y": 35,
+        "yoffset": -0.42
+      },
+      {
+        "model": "minecraft:block/lily_of_the_valley",
+        "y": 40,
+        "yoffset": -0.35
+      }
+    ]
+  }
+}

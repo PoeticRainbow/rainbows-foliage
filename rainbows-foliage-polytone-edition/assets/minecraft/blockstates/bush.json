@@ -1,0 +1,91 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/bush",
+        "y": -40,
+        "yoffset": -0.28
+      },
+      {
+        "model": "minecraft:block/bush",
+        "y": -35,
+        "yoffset": -0.35
+      },
+      {
+        "model": "minecraft:block/bush",
+        "y": -30,
+        "yoffset": -0.07
+      },
+      {
+        "model": "minecraft:block/bush",
+        "y": -25,
+        "yoffset": -0.42
+      },
+      {
+        "model": "minecraft:block/bush",
+        "y": -20,
+        "yoffset": -0.33
+      },
+      {
+        "model": "minecraft:block/bush",
+        "y": -15,
+        "yoffset": -0.46
+      },
+      {
+        "model": "minecraft:block/bush",
+        "y": -10,
+        "yoffset": -0.36
+      },
+      {
+        "model": "minecraft:block/bush",
+        "y": -5,
+        "yoffset": -0.15
+      },
+      {
+        "model": "minecraft:block/bush",
+        "y": 0,
+        "yoffset": -0.13
+      },
+      {
+        "model": "minecraft:block/bush",
+        "y": 5,
+        "yoffset": -0.13
+      },
+      {
+        "model": "minecraft:block/bush",
+        "y": 10,
+        "yoffset": -0.22
+      },
+      {
+        "model": "minecraft:block/bush",
+        "y": 15,
+        "yoffset": -0.36
+      },
+      {
+        "model": "minecraft:block/bush",
+        "y": 20,
+        "yoffset": -0.15
+      },
+      {
+        "model": "minecraft:block/bush",
+        "y": 25,
+        "yoffset": -0.28
+      },
+      {
+        "model": "minecraft:block/bush",
+        "y": 30,
+        "yoffset": -0.06
+      },
+      {
+        "model": "minecraft:block/bush",
+        "y": 35,
+        "yoffset": -0.12
+      },
+      {
+        "model": "minecraft:block/bush",
+        "y": 40,
+        "yoffset": -0.25
+      }
+    ]
+  }
+}

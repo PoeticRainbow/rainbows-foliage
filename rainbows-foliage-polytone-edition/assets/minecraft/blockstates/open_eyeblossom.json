@@ -1,0 +1,91 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/open_eyeblossom",
+        "y": -40,
+        "yoffset": -0.01
+      },
+      {
+        "model": "minecraft:block/open_eyeblossom",
+        "y": -35,
+        "yoffset": -0.02
+      },
+      {
+        "model": "minecraft:block/open_eyeblossom",
+        "y": -30,
+        "yoffset": -0.36
+      },
+      {
+        "model": "minecraft:block/open_eyeblossom",
+        "y": -25,
+        "yoffset": -0.14
+      },
+      {
+        "model": "minecraft:block/open_eyeblossom",
+        "y": -20,
+        "yoffset": -0.25
+      },
+      {
+        "model": "minecraft:block/open_eyeblossom",
+        "y": -15,
+        "yoffset": -0.24
+      },
+      {
+        "model": "minecraft:block/open_eyeblossom",
+        "y": -10,
+        "yoffset": -0.41
+      },
+      {
+        "model": "minecraft:block/open_eyeblossom",
+        "y": -5,
+        "yoffset": -0.29
+      },
+      {
+        "model": "minecraft:block/open_eyeblossom",
+        "y": 0,
+        "yoffset": -0.39
+      },
+      {
+        "model": "minecraft:block/open_eyeblossom",
+        "y": 5,
+        "yoffset": -0.25
+      },
+      {
+        "model": "minecraft:block/open_eyeblossom",
+        "y": 10,
+        "yoffset": -0.02
+      },
+      {
+        "model": "minecraft:block/open_eyeblossom",
+        "y": 15,
+        "yoffset": -0.36
+      },
+      {
+        "model": "minecraft:block/open_eyeblossom",
+        "y": 20,
+        "yoffset": -0.27
+      },
+      {
+        "model": "minecraft:block/open_eyeblossom",
+        "y": 25,
+        "yoffset": -0.23
+      },
+      {
+        "model": "minecraft:block/open_eyeblossom",
+        "y": 30,
+        "yoffset": -0.03
+      },
+      {
+        "model": "minecraft:block/open_eyeblossom",
+        "y": 35,
+        "yoffset": -0.18
+      },
+      {
+        "model": "minecraft:block/open_eyeblossom",
+        "y": 40,
+        "yoffset": -0.24
+      }
+    ]
+  }
+}

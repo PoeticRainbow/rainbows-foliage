@@ -1,0 +1,91 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/oak_sapling",
+        "y": -40,
+        "yoffset": -0.32
+      },
+      {
+        "model": "minecraft:block/oak_sapling",
+        "y": -35,
+        "yoffset": -0.41
+      },
+      {
+        "model": "minecraft:block/oak_sapling",
+        "y": -30,
+        "yoffset": -0.13
+      },
+      {
+        "model": "minecraft:block/oak_sapling",
+        "y": -25,
+        "yoffset": -0.4
+      },
+      {
+        "model": "minecraft:block/oak_sapling",
+        "y": -20,
+        "yoffset": -0.3
+      },
+      {
+        "model": "minecraft:block/oak_sapling",
+        "y": -15,
+        "yoffset": -0.36
+      },
+      {
+        "model": "minecraft:block/oak_sapling",
+        "y": -10,
+        "yoffset": -0.12
+      },
+      {
+        "model": "minecraft:block/oak_sapling",
+        "y": -5,
+        "yoffset": -0.17
+      },
+      {
+        "model": "minecraft:block/oak_sapling",
+        "y": 0,
+        "yoffset": -0.21
+      },
+      {
+        "model": "minecraft:block/oak_sapling",
+        "y": 5,
+        "yoffset": -0.38
+      },
+      {
+        "model": "minecraft:block/oak_sapling",
+        "y": 10,
+        "yoffset": -0.39
+      },
+      {
+        "model": "minecraft:block/oak_sapling",
+        "y": 15,
+        "yoffset": -0.47
+      },
+      {
+        "model": "minecraft:block/oak_sapling",
+        "y": 20,
+        "yoffset": -0.3
+      },
+      {
+        "model": "minecraft:block/oak_sapling",
+        "y": 25,
+        "yoffset": -0.24
+      },
+      {
+        "model": "minecraft:block/oak_sapling",
+        "y": 30,
+        "yoffset": -0.48
+      },
+      {
+        "model": "minecraft:block/oak_sapling",
+        "y": 35,
+        "yoffset": -0.34
+      },
+      {
+        "model": "minecraft:block/oak_sapling",
+        "y": 40,
+        "yoffset": -0.22
+      }
+    ]
+  }
+}

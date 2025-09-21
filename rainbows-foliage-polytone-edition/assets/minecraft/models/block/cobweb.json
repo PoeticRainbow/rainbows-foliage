@@ -1,0 +1,4 @@
+{
+  "parent": "block/cross_plus",
+  "textures": {"cross": "block/cobweb"}
+}

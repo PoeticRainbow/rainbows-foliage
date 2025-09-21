@@ -1,0 +1,91 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/warped_fungus",
+        "y": -40,
+        "yoffset": -0.17
+      },
+      {
+        "model": "minecraft:block/warped_fungus",
+        "y": -35,
+        "yoffset": -0.25
+      },
+      {
+        "model": "minecraft:block/warped_fungus",
+        "y": -30,
+        "yoffset": -0.17
+      },
+      {
+        "model": "minecraft:block/warped_fungus",
+        "y": -25,
+        "yoffset": -0.04
+      },
+      {
+        "model": "minecraft:block/warped_fungus",
+        "y": -20,
+        "yoffset": -0.01
+      },
+      {
+        "model": "minecraft:block/warped_fungus",
+        "y": -15,
+        "yoffset": -0.16
+      },
+      {
+        "model": "minecraft:block/warped_fungus",
+        "y": -10,
+        "yoffset": -0.13
+      },
+      {
+        "model": "minecraft:block/warped_fungus",
+        "y": -5,
+        "yoffset": -0.1
+      },
+      {
+        "model": "minecraft:block/warped_fungus",
+        "y": 0,
+        "yoffset": -0.03
+      },
+      {
+        "model": "minecraft:block/warped_fungus",
+        "y": 5,
+        "yoffset": -0.1
+      },
+      {
+        "model": "minecraft:block/warped_fungus",
+        "y": 10,
+        "yoffset": -0.4
+      },
+      {
+        "model": "minecraft:block/warped_fungus",
+        "y": 15,
+        "yoffset": -0.07
+      },
+      {
+        "model": "minecraft:block/warped_fungus",
+        "y": 20,
+        "yoffset": -0.15
+      },
+      {
+        "model": "minecraft:block/warped_fungus",
+        "y": 25,
+        "yoffset": -0.1
+      },
+      {
+        "model": "minecraft:block/warped_fungus",
+        "y": 30,
+        "yoffset": -0.46
+      },
+      {
+        "model": "minecraft:block/warped_fungus",
+        "y": 35,
+        "yoffset": -0.08
+      },
+      {
+        "model": "minecraft:block/warped_fungus",
+        "y": 40,
+        "yoffset": -0.26
+      }
+    ]
+  }
+}

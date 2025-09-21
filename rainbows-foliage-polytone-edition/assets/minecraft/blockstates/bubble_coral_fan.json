@@ -1,0 +1,91 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/bubble_coral_fan",
+        "y": -40,
+        "yoffset": -0.2
+      },
+      {
+        "model": "minecraft:block/bubble_coral_fan",
+        "y": -35,
+        "yoffset": -0.43
+      },
+      {
+        "model": "minecraft:block/bubble_coral_fan",
+        "y": -30,
+        "yoffset": -0.05
+      },
+      {
+        "model": "minecraft:block/bubble_coral_fan",
+        "y": -25,
+        "yoffset": -0.37
+      },
+      {
+        "model": "minecraft:block/bubble_coral_fan",
+        "y": -20,
+        "yoffset": -0.23
+      },
+      {
+        "model": "minecraft:block/bubble_coral_fan",
+        "y": -15,
+        "yoffset": -0.1
+      },
+      {
+        "model": "minecraft:block/bubble_coral_fan",
+        "y": -10,
+        "yoffset": -0.45
+      },
+      {
+        "model": "minecraft:block/bubble_coral_fan",
+        "y": -5,
+        "yoffset": -0.36
+      },
+      {
+        "model": "minecraft:block/bubble_coral_fan",
+        "y": 0,
+        "yoffset": -0.24
+      },
+      {
+        "model": "minecraft:block/bubble_coral_fan",
+        "y": 5,
+        "yoffset": -0.43
+      },
+      {
+        "model": "minecraft:block/bubble_coral_fan",
+        "y": 10,
+        "yoffset": -0.21
+      },
+      {
+        "model": "minecraft:block/bubble_coral_fan",
+        "y": 15,
+        "yoffset": -0.1
+      },
+      {
+        "model": "minecraft:block/bubble_coral_fan",
+        "y": 20,
+        "yoffset": -0.03
+      },
+      {
+        "model": "minecraft:block/bubble_coral_fan",
+        "y": 25,
+        "yoffset": -0.39
+      },
+      {
+        "model": "minecraft:block/bubble_coral_fan",
+        "y": 30,
+        "yoffset": -0.09
+      },
+      {
+        "model": "minecraft:block/bubble_coral_fan",
+        "y": 35,
+        "yoffset": -0.24
+      },
+      {
+        "model": "minecraft:block/bubble_coral_fan",
+        "y": 40,
+        "yoffset": -0.12
+      }
+    ]
+  }
+}

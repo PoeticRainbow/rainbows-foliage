@@ -1,0 +1,4 @@
+{
+  "parent": "block/template_leaves/east_west_y_-40",
+  "textures": {"all": "block/mangrove_leaves_bushy"}
+}

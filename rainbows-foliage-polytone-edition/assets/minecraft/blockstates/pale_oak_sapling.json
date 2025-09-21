@@ -1,0 +1,91 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/pale_oak_sapling",
+        "y": -40,
+        "yoffset": -0.13
+      },
+      {
+        "model": "minecraft:block/pale_oak_sapling",
+        "y": -35,
+        "yoffset": -0.11
+      },
+      {
+        "model": "minecraft:block/pale_oak_sapling",
+        "y": -30,
+        "yoffset": -0.03
+      },
+      {
+        "model": "minecraft:block/pale_oak_sapling",
+        "y": -25,
+        "yoffset": -0.2
+      },
+      {
+        "model": "minecraft:block/pale_oak_sapling",
+        "y": -20,
+        "yoffset": -0.16
+      },
+      {
+        "model": "minecraft:block/pale_oak_sapling",
+        "y": -15,
+        "yoffset": -0.18
+      },
+      {
+        "model": "minecraft:block/pale_oak_sapling",
+        "y": -10,
+        "yoffset": -0.14
+      },
+      {
+        "model": "minecraft:block/pale_oak_sapling",
+        "y": -5,
+        "yoffset": -0.3
+      },
+      {
+        "model": "minecraft:block/pale_oak_sapling",
+        "y": 0,
+        "yoffset": -0.03
+      },
+      {
+        "model": "minecraft:block/pale_oak_sapling",
+        "y": 5,
+        "yoffset": -0.37
+      },
+      {
+        "model": "minecraft:block/pale_oak_sapling",
+        "y": 10,
+        "yoffset": -0.15
+      },
+      {
+        "model": "minecraft:block/pale_oak_sapling",
+        "y": 15,
+        "yoffset": -0.02
+      },
+      {
+        "model": "minecraft:block/pale_oak_sapling",
+        "y": 20,
+        "yoffset": -0.38
+      },
+      {
+        "model": "minecraft:block/pale_oak_sapling",
+        "y": 25,
+        "yoffset": -0.26
+      },
+      {
+        "model": "minecraft:block/pale_oak_sapling",
+        "y": 30,
+        "yoffset": -0.47
+      },
+      {
+        "model": "minecraft:block/pale_oak_sapling",
+        "y": 35,
+        "yoffset": -0.27
+      },
+      {
+        "model": "minecraft:block/pale_oak_sapling",
+        "y": 40,
+        "yoffset": -0.23
+      }
+    ]
+  }
+}
