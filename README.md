@@ -1,8 +1,8 @@
 <img src="https://github.com/PoeticRainbow/rainbows-foliage/blob/master/gallery/rainbows-foliage.png?raw=true" align=center alt="rainbow's foliage logo">
 
 <div align=center>
-  <img alt="polytone edition downloads" src="https://img.shields.io/modrinth/dt/rainbows-foliage?style=flat&logo=modrinth&label=polytone%20edition&link=https%3A%2F%2Fmodrinth.com%2Fresourcepack%2Frainbows-foliage">
-  <img alt="vanilla edition downloads" src="https://img.shields.io/modrinth/dt/rainbows-foliage-vanilla-edition?style=flat&logo=modrinth&label=vanilla%20edition&link=https%3A%2F%2Fmodrinth.com%2Fresourcepack%2Frainbows-foliage-vanilla-edition">
+  <a href="https://modrinth.com/resourcepack/rainbows-foliage"><img alt="polytone edition downloads" src="https://img.shields.io/modrinth/dt/rainbows-foliage?style=flat&logo=modrinth&label=polytone%20edition&link=https%3A%2F%2Fmodrinth.com%2Fresourcepack%2Frainbows-foliage"></a>
+  <a href="https://modrinth.com/resourcepack/rainbows-foliage-vanilla-edition"><img alt="vanilla edition downloads" src="https://img.shields.io/modrinth/dt/rainbows-foliage-vanilla-edition?style=flat&logo=modrinth&label=vanilla%20edition&link=https%3A%2F%2Fmodrinth.com%2Fresourcepack%2Frainbows-foliage-vanilla-edition"></a>
 </div>
 
 # **rainbow's foliage**
