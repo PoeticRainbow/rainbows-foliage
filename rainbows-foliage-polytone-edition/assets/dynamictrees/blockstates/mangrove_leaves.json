@@ -1,0 +1,198 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/mangrove_leaves_bushy",
+        "x": -2,
+        "y": -42,
+        "z": 6
+      },
+      {
+        "model": "minecraft:block/mangrove_leaves_bushy",
+        "x": 30,
+        "y": -40,
+        "z": -14
+      },
+      {
+        "model": "minecraft:block/mangrove_leaves_bushy",
+        "x": 25,
+        "y": 29,
+        "z": -44
+      },
+      {
+        "model": "minecraft:block/mangrove_leaves_bushy",
+        "x": -45,
+        "y": -23,
+        "z": -43
+      },
+      {
+        "model": "minecraft:block/mangrove_leaves_bushy",
+        "x": -26,
+        "y": 41,
+        "z": 15
+      },
+      {
+        "model": "minecraft:block/mangrove_leaves_bushy",
+        "x": 15,
+        "y": 7,
+        "z": 4
+      },
+      {
+        "model": "minecraft:block/mangrove_leaves_bushy",
+        "x": -23,
+        "y": 22,
+        "z": -29
+      },
+      {
+        "model": "minecraft:block/mangrove_leaves_bushy",
+        "x": -21,
+        "y": -18,
+        "z": -4
+      },
+      {
+        "model": "minecraft:block/mangrove_leaves_bushy",
+        "x": 19,
+        "y": -32,
+        "z": -27
+      },
+      {
+        "model": "minecraft:block/mangrove_leaves_bushy",
+        "x": 29,
+        "y": -21,
+        "z": 44
+      },
+      {
+        "model": "minecraft:block/mangrove_leaves_bushy",
+        "x": 44,
+        "y": 25,
+        "z": 12
+      },
+      {
+        "model": "minecraft:block/mangrove_leaves_bushy",
+        "x": 20,
+        "y": 43,
+        "z": -37
+      },
+      {
+        "model": "minecraft:block/mangrove_leaves_bushy",
+        "x": -44,
+        "y": 16,
+        "z": 8
+      },
+      {
+        "model": "minecraft:block/mangrove_leaves_bushy",
+        "x": 23,
+        "y": 13,
+        "z": 1
+      },
+      {
+        "model": "minecraft:block/mangrove_leaves_bushy",
+        "x": 30,
+        "y": 26,
+        "z": -44
+      },
+      {
+        "model": "minecraft:block/mangrove_leaves_bushy",
+        "x": 3,
+        "y": 8,
+        "z": -40
+      },
+      {
+        "model": "minecraft:block/mangrove_leaves_bushy",
+        "x": 28,
+        "y": -40,
+        "z": -3
+      },
+      {
+        "model": "minecraft:block/mangrove_leaves_bushy",
+        "x": -27,
+        "y": 44,
+        "z": 39
+      },
+      {
+        "model": "minecraft:block/mangrove_leaves_bushy",
+        "x": -26,
+        "y": 37,
+        "z": 14
+      },
+      {
+        "model": "minecraft:block/mangrove_leaves_bushy",
+        "x": 34,
+        "y": -29,
+        "z": 27
+      },
+      {
+        "model": "minecraft:block/mangrove_leaves_bushy",
+        "x": 30,
+        "y": -40,
+        "z": 34
+      },
+      {
+        "model": "minecraft:block/mangrove_leaves_bushy",
+        "x": 33,
+        "y": -26,
+        "z": 33
+      },
+      {
+        "model": "minecraft:block/mangrove_leaves_bushy",
+        "x": -10,
+        "y": 9,
+        "z": -1
+      },
+      {
+        "model": "minecraft:block/mangrove_leaves_bushy",
+        "x": -33,
+        "y": 28,
+        "z": 39
+      },
+      {
+        "model": "minecraft:block/mangrove_leaves_bushy",
+        "x": 28,
+        "y": -30,
+        "z": 20
+      },
+      {
+        "model": "minecraft:block/mangrove_leaves_bushy",
+        "x": -2,
+        "y": 37,
+        "z": -9
+      },
+      {
+        "model": "minecraft:block/mangrove_leaves_bushy",
+        "x": -44,
+        "y": -23,
+        "z": -22
+      },
+      {
+        "model": "minecraft:block/mangrove_leaves_bushy",
+        "x": 24,
+        "y": 19,
+        "z": -30
+      },
+      {
+        "model": "minecraft:block/mangrove_leaves_bushy",
+        "x": -41,
+        "y": 23,
+        "z": -16
+      },
+      {
+        "model": "minecraft:block/mangrove_leaves_bushy",
+        "x": -31,
+        "y": -31,
+        "z": -45
+      },
+      {
+        "model": "minecraft:block/mangrove_leaves_bushy",
+        "x": 22,
+        "y": 41,
+        "z": 6
+      },
+      {
+        "model": "minecraft:block/mangrove_leaves_bushy",
+        "x": 3,
+        "y": -8,
+        "z": -32
+      }
+    ]
+  }
+}

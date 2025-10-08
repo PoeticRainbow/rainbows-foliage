@@ -1,0 +1,198 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/acacia_leaves_bushy",
+        "x": -9,
+        "y": -4,
+        "z": -42
+      },
+      {
+        "model": "minecraft:block/acacia_leaves_bushy",
+        "x": -3,
+        "y": -9,
+        "z": -26
+      },
+      {
+        "model": "minecraft:block/acacia_leaves_bushy",
+        "x": 18,
+        "y": -3,
+        "z": -1
+      },
+      {
+        "model": "minecraft:block/acacia_leaves_bushy",
+        "x": 4,
+        "y": 36,
+        "z": 13
+      },
+      {
+        "model": "minecraft:block/acacia_leaves_bushy",
+        "x": -32,
+        "y": -33,
+        "z": 43
+      },
+      {
+        "model": "minecraft:block/acacia_leaves_bushy",
+        "x": 13,
+        "y": 12,
+        "z": -7
+      },
+      {
+        "model": "minecraft:block/acacia_leaves_bushy",
+        "x": 27,
+        "y": -8,
+        "z": -30
+      },
+      {
+        "model": "minecraft:block/acacia_leaves_bushy",
+        "x": 31,
+        "y": -43,
+        "z": -34
+      },
+      {
+        "model": "minecraft:block/acacia_leaves_bushy",
+        "x": 23,
+        "y": 25,
+        "z": 26
+      },
+      {
+        "model": "minecraft:block/acacia_leaves_bushy",
+        "x": -2,
+        "y": -10,
+        "z": -9
+      },
+      {
+        "model": "minecraft:block/acacia_leaves_bushy",
+        "x": -37,
+        "y": 14,
+        "z": -45
+      },
+      {
+        "model": "minecraft:block/acacia_leaves_bushy",
+        "x": 2,
+        "y": -18,
+        "z": -9
+      },
+      {
+        "model": "minecraft:block/acacia_leaves_bushy",
+        "x": -1,
+        "y": -34,
+        "z": -2
+      },
+      {
+        "model": "minecraft:block/acacia_leaves_bushy",
+        "x": 25,
+        "y": 9,
+        "z": 19
+      },
+      {
+        "model": "minecraft:block/acacia_leaves_bushy",
+        "x": 19,
+        "y": 24,
+        "z": 27
+      },
+      {
+        "model": "minecraft:block/acacia_leaves_bushy",
+        "x": -43,
+        "y": -2,
+        "z": -40
+      },
+      {
+        "model": "minecraft:block/acacia_leaves_bushy",
+        "x": -22,
+        "y": -15,
+        "z": 29
+      },
+      {
+        "model": "minecraft:block/acacia_leaves_bushy",
+        "x": 13,
+        "y": 10,
+        "z": -22
+      },
+      {
+        "model": "minecraft:block/acacia_leaves_bushy",
+        "x": -32,
+        "y": 30,
+        "z": -17
+      },
+      {
+        "model": "minecraft:block/acacia_leaves_bushy",
+        "x": -4,
+        "y": 32,
+        "z": -23
+      },
+      {
+        "model": "minecraft:block/acacia_leaves_bushy",
+        "x": -28,
+        "y": 43,
+        "z": -2
+      },
+      {
+        "model": "minecraft:block/acacia_leaves_bushy",
+        "x": 12,
+        "y": -17,
+        "z": 3
+      },
+      {
+        "model": "minecraft:block/acacia_leaves_bushy",
+        "x": 9,
+        "y": -38,
+        "z": 15
+      },
+      {
+        "model": "minecraft:block/acacia_leaves_bushy",
+        "x": -15,
+        "y": 11,
+        "z": 19
+      },
+      {
+        "model": "minecraft:block/acacia_leaves_bushy",
+        "x": 24,
+        "y": 18,
+        "z": 28
+      },
+      {
+        "model": "minecraft:block/acacia_leaves_bushy",
+        "x": -3,
+        "y": -3,
+        "z": -25
+      },
+      {
+        "model": "minecraft:block/acacia_leaves_bushy",
+        "x": -23,
+        "y": 11,
+        "z": -35
+      },
+      {
+        "model": "minecraft:block/acacia_leaves_bushy",
+        "x": 3,
+        "y": -30,
+        "z": -19
+      },
+      {
+        "model": "minecraft:block/acacia_leaves_bushy",
+        "x": 10,
+        "y": -18,
+        "z": 40
+      },
+      {
+        "model": "minecraft:block/acacia_leaves_bushy",
+        "x": -6,
+        "y": 8,
+        "z": -11
+      },
+      {
+        "model": "minecraft:block/acacia_leaves_bushy",
+        "x": 22,
+        "y": -26,
+        "z": 22
+      },
+      {
+        "model": "minecraft:block/acacia_leaves_bushy",
+        "x": 40,
+        "y": 5,
+        "z": 13
+      }
+    ]
+  }
+}
