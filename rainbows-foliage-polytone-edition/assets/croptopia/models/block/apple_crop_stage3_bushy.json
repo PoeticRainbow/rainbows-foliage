@@ -1,0 +1,1 @@
+{"parent": "block/template_leaves_overlay", "textures": {"all": "minecraft:block/oak_leaves", "crop": "croptopia:block/apple_ripe", "bushy": "minecraft:block/oak_leaves_bushy", "overlay": "croptopia:block/apple_ripe_bushy"}}
