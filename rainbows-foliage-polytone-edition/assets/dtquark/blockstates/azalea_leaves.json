@@ -1,0 +1,198 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/azalea_leaves_bushy",
+        "x": -21,
+        "y": 38,
+        "z": -19
+      },
+      {
+        "model": "minecraft:block/azalea_leaves_bushy",
+        "x": 1,
+        "y": -17,
+        "z": 19
+      },
+      {
+        "model": "minecraft:block/azalea_leaves_bushy",
+        "x": -28,
+        "y": -42,
+        "z": 35
+      },
+      {
+        "model": "minecraft:block/azalea_leaves_bushy",
+        "x": -14,
+        "y": -19,
+        "z": -15
+      },
+      {
+        "model": "minecraft:block/azalea_leaves_bushy",
+        "x": -27,
+        "y": 11,
+        "z": 14
+      },
+      {
+        "model": "minecraft:block/azalea_leaves_bushy",
+        "x": -20,
+        "y": 25,
+        "z": 39
+      },
+      {
+        "model": "minecraft:block/azalea_leaves_bushy",
+        "x": -22,
+        "y": 25,
+        "z": -36
+      },
+      {
+        "model": "minecraft:block/azalea_leaves_bushy",
+        "x": 29,
+        "y": -16,
+        "z": -12
+      },
+      {
+        "model": "minecraft:block/azalea_leaves_bushy",
+        "x": 42,
+        "y": 12,
+        "z": 34
+      },
+      {
+        "model": "minecraft:block/azalea_leaves_bushy",
+        "x": 0,
+        "y": 33,
+        "z": 25
+      },
+      {
+        "model": "minecraft:block/azalea_leaves_bushy",
+        "x": -15,
+        "y": 12,
+        "z": -28
+      },
+      {
+        "model": "minecraft:block/azalea_leaves_bushy",
+        "x": -29,
+        "y": -4,
+        "z": -1
+      },
+      {
+        "model": "minecraft:block/azalea_leaves_bushy",
+        "x": -1,
+        "y": -19,
+        "z": 23
+      },
+      {
+        "model": "minecraft:block/azalea_leaves_bushy",
+        "x": 36,
+        "y": -24,
+        "z": -31
+      },
+      {
+        "model": "minecraft:block/azalea_leaves_bushy",
+        "x": -33,
+        "y": -38,
+        "z": 28
+      },
+      {
+        "model": "minecraft:block/azalea_leaves_bushy",
+        "x": -17,
+        "y": 13,
+        "z": 19
+      },
+      {
+        "model": "minecraft:block/azalea_leaves_bushy",
+        "x": -8,
+        "y": -15,
+        "z": -42
+      },
+      {
+        "model": "minecraft:block/azalea_leaves_bushy",
+        "x": -42,
+        "y": 20,
+        "z": -31
+      },
+      {
+        "model": "minecraft:block/azalea_leaves_bushy",
+        "x": -1,
+        "y": -18,
+        "z": -4
+      },
+      {
+        "model": "minecraft:block/azalea_leaves_bushy",
+        "x": 0,
+        "y": 2,
+        "z": -24
+      },
+      {
+        "model": "minecraft:block/azalea_leaves_bushy",
+        "x": 9,
+        "y": 24,
+        "z": 18
+      },
+      {
+        "model": "minecraft:block/azalea_leaves_bushy",
+        "x": -3,
+        "y": 30,
+        "z": 4
+      },
+      {
+        "model": "minecraft:block/azalea_leaves_bushy",
+        "x": 31,
+        "y": 7,
+        "z": 9
+      },
+      {
+        "model": "minecraft:block/azalea_leaves_bushy",
+        "x": 39,
+        "y": 21,
+        "z": -28
+      },
+      {
+        "model": "minecraft:block/azalea_leaves_bushy",
+        "x": 7,
+        "y": -33,
+        "z": -25
+      },
+      {
+        "model": "minecraft:block/azalea_leaves_bushy",
+        "x": -26,
+        "y": 9,
+        "z": -28
+      },
+      {
+        "model": "minecraft:block/azalea_leaves_bushy",
+        "x": 2,
+        "y": 32,
+        "z": 16
+      },
+      {
+        "model": "minecraft:block/azalea_leaves_bushy",
+        "x": 17,
+        "y": 40,
+        "z": -13
+      },
+      {
+        "model": "minecraft:block/azalea_leaves_bushy",
+        "x": -21,
+        "y": 41,
+        "z": 39
+      },
+      {
+        "model": "minecraft:block/azalea_leaves_bushy",
+        "x": 8,
+        "y": 5,
+        "z": -11
+      },
+      {
+        "model": "minecraft:block/azalea_leaves_bushy",
+        "x": 41,
+        "y": -16,
+        "z": -31
+      },
+      {
+        "model": "minecraft:block/azalea_leaves_bushy",
+        "x": -12,
+        "y": -14,
+        "z": 12
+      }
+    ]
+  }
+}
