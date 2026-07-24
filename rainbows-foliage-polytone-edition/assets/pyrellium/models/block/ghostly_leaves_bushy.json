@@ -1,7 +1,1 @@
-{
-  "parent": "block/template_leaves",
-  "textures": {
-    "all": "pyrellium:block/ghostly_leaves",
-    "bushy": "pyrellium:block/ghostly_leaves_bushy"
-  }
-}
+{"parent": "block/template_leaves", "textures": {"all": "pyrellium:block/ghostly_leaves", "bushy": "pyrellium:block/ghostly_leaves_bushy"}}
