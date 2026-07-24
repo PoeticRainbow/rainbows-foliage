@@ -1,7 +1,1 @@
-{
-  "parent": "block/template_leaves",
-  "textures": {
-    "all": "bloomingnature:block/fir_leaves",
-    "bushy": "bloomingnature:block/fir_leaves_bushy"
-  }
-}
+{"parent": "block/template_leaves", "textures": {"all": "bloomingnature:block/fir_leaves", "bushy": "bloomingnature:block/fir_leaves_bushy"}}

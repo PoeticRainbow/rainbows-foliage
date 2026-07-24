@@ -1,7 +1,1 @@
-{
-  "parent": "block/template_leaves",
-  "textures": {
-    "all": "bloomingnature:block/fan_palm_leaves",
-    "bushy": "bloomingnature:block/fan_palm_leaves_bushy"
-  }
-}
+{"credit": "Made by Satisfy", "textures": {"0": "bloomingnature:block/fan_palm_leaves", "particle": "bloomingnature:block/fan_palm_leaves", "all": "bloomingnature:block/fan_palm_leaves", "bushy": "bloomingnature:block/fan_palm_leaves_bushy"}, "parent": "block/template_leaves"}

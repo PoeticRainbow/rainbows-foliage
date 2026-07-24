@@ -1,7 +1,1 @@
-{
-  "parent": "block/template_leaves",
-  "textures": {
-    "all": "bloomingnature:block/swamp_cypress_leaves",
-    "bushy": "bloomingnature:block/swamp_cypress_leaves_bushy"
-  }
-}
+{"parent": "block/template_leaves", "textures": {"all": "bloomingnature:block/swamp_cypress_leaves", "bushy": "bloomingnature:block/swamp_cypress_leaves_bushy"}}

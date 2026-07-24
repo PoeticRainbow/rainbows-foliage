@@ -1,0 +1,1 @@
+{"credit": "Made by Satisfy", "ambientocclusion": false, "render_type": "cutout", "textures": {"particle": "bloomingnature:block/floating_leaves", "texture": "bloomingnature:block/floating_leaves", "all": "block/oak_leaves", "bushy": "block/oak_leaves_bushy"}, "parent": "block/template_leaves"}

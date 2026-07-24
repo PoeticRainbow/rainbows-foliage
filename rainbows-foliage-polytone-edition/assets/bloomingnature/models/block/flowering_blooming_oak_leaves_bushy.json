@@ -1,0 +1,10 @@
+{
+  "format_version": "1.9.0",
+  "credit": "Made by Satisfy",
+  "textures": {
+    "all": "minecraft:block/oak_leaves",
+    "bushy": "minecraft:block/oak_leaves_bushy",
+    "overlay": "bloomingnature:block/flowering_blooming_oak_leaves_overlay_bushy"
+  },
+  "parent": "block/template_leaves_overlay"
+}
