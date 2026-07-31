@@ -1,7 +1,0 @@
-{
-  "parent": "block/template_leaves",
-  "textures": {
-    "all": "vinery:block/taiga_grapevine_leaves",
-    "bushy": "vinery:block/taiga_grapevine_leaves_bushy"
-  }
-}
