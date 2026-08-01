@@ -1,0 +1,1 @@
+{"parent": "block/template_leaves", "textures": {"side": "spawn:block/date_leaves_bushy", "end": "spawn:block/date_leaves_top", "particle": "#side", "all": "block/oak_leaves", "bushy": "block/oak_leaves_bushy"}}

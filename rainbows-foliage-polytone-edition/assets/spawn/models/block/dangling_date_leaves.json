@@ -1,0 +1,1 @@
+{"format_version":"1.21.6","parent":"minecraft:block/tinted_cross","render_type":"cutout","textures":{"particle":"spawn:block/dangling_date_leaves","cross":"spawn:block/dangling_date_leaves"},"display":{"head":{"translation":[0,-2.75,0]}}}
