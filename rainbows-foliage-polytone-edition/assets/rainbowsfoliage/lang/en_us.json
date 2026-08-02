@@ -2,6 +2,8 @@
   "config.rainbowsfoliage.header": "rainbow's foliage",
   "config.rainbowsfoliage.extra_bushy": "Extra Bushy",
   "config.rainbowsfoliage.extra_bushy.tooltip": "Will cause lag on weaker systems!\n(Might double performance impact)",
+  "config.rainbowsfoliage.wavy_leaves_compat": "Wavy Leaves Compat",
+  "config.rainbowsfoliage.wavy_leaves_compat.tooltip": "This only works with Vanilla Tweaks Wavy Leaves!\n\nYou must apply Vanilla Tweaks UNDERNEATH rainbow's foliage for this to work.",
   "config.rainbowsfoliage.better_snow": "Better Snow",
   "config.rainbowsfoliage.better_snow.tooltip": "When enabled, Snow will have an overlay texture when on top of Leaves",
   "config.rainbowsfoliage.rotate_plants": "Rotate Plants",

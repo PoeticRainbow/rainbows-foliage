@@ -35,6 +35,13 @@
         "formats": [0, 0],
         "min_format": 0,
         "max_format": 0
+      },
+      {
+        "directory": "option_wavy_leaves_compat",
+        "polytone_condition": "config('rainbowsfoliage:wavy_leaves_compat')",
+        "formats": [0, 0],
+        "min_format": 0,
+        "max_format": 0
       }
     ]
   },
