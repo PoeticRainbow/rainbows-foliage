@@ -1,7 +1,9 @@
 {
   "config.rainbowsfoliage.header": "rainbow's foliage",
   "config.rainbowsfoliage.extra_bushy": "Extra Bushy",
-  "config.rainbowsfoliage.extra_bushy.tooltip": "Will cause lag on weaker systems! x2 the default",
+  "config.rainbowsfoliage.extra_bushy.tooltip": "Will cause lag on weaker systems!\n(Might double performance impact)",
+  "config.rainbowsfoliage.rotate_plants": "Rotate Plants",
+  "config.rainbowsfoliage.rotate_plants.tooltip": "Adds rotation to plants like Short Grass, Flowers, Seagrass, and also Cobwebs",
   "config.rainbowsfoliage.force_enable_pbr": "Force Enable PBR",
-  "config.rainbowsfoliage.force_enable_pbr.tooltip": "Forces the labPBR support to load. Automatically loads when Iris or Oculus are installed."
+  "config.rainbowsfoliage.force_enable_pbr.tooltip": "Forces the labPBR support to load.\n\nAutomatically loads when Iris or Oculus are installed."
 }

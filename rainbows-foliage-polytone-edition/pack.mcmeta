@@ -21,6 +21,13 @@
         "formats": [0, 0],
         "min_format": 0,
         "max_format": 0
+      },
+      {
+        "directory": "option_rotate_plants",
+        "polytone_condition": "config('rainbowsfoliage:rotate_plants')",
+        "formats": [0, 0],
+        "min_format": 0,
+        "max_format": 0
       }
     ]
   }
