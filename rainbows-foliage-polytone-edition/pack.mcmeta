@@ -5,5 +5,23 @@
     "supported_formats": [15, 420],
     "min_format": 15,
     "max_format": 420
+  },
+  "overlays": {
+    "entries": [
+      {
+        "directory": "mod_labpbr",
+        "polytone_condition": "modOn('iris') || modOn('oculus') || config('rainbowsfoliage:force_enable_pbr')",
+        "formats": [0, 0],
+        "min_format": 0,
+        "max_format": 0
+      },
+      {
+        "directory": "option_extra_bushy",
+        "polytone_condition": "config('rainbowsfoliage:extra_bushy')",
+        "formats": [0, 0],
+        "min_format": 0,
+        "max_format": 0
+      }
+    ]
   }
 }
