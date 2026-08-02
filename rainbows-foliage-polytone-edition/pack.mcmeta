@@ -42,6 +42,20 @@
         "formats": [0, 0],
         "min_format": 0,
         "max_format": 0
+      },
+      {
+        "directory": "option_wavy_leaves_regular",
+        "polytone_condition": "config('rainbowsfoliage:wavy_leaves_compat') && !config('rainbowsfoliage:extra_bushy')",
+        "formats": [0, 0],
+        "min_format": 0,
+        "max_format": 0
+      },
+      {
+        "directory": "option_wavy_leaves_extra_bushy",
+        "polytone_condition": "config('rainbowsfoliage:wavy_leaves_compat') && config('rainbowsfoliage:extra_bushy')",
+        "formats": [0, 0],
+        "min_format": 0,
+        "max_format": 0
       }
     ]
   },
