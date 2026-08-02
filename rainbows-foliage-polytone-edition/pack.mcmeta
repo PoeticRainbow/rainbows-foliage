@@ -37,5 +37,122 @@
         "max_format": 0
       }
     ]
+  },
+  "polytone": {
+    "title": {
+      "text": "rainbow's foliage: polytone edition",
+      "color": "green",
+      "bold": true
+    },
+    "content": {
+      "text": "",
+      "extra": [
+        {
+          "text": "a resource pack all about adding detail and variation to vegetation and other blocks. split into two versions, one that is compatible with Vanilla and another which requires the PolyTone mod. the vanilla edition currently only changes leaves, while the polytone edition affects a large number of plants.",
+          "color": "white"
+        },
+        "\n",
+        "\n",
+        {
+          "text": "this pack contains options (toggleable from the brush button in the resource pack screen)! customize the features to your liking and needs!",
+          "color": "white"
+        },
+        "\n",
+        "\n",
+        {
+          "text": "official rainbow's foliage links",
+          "bold": true,
+          "underlined": true
+        },
+        "\n",
+        "\n",
+        "polytone edition: ",
+        {
+          "text": "[ Modrinth ]",
+          "color": "#1bd96a",
+          "underlined": true,
+          "click_event": {
+            "action": "open_url",
+            "url": "https://modrinth.com/resourcepack/rainbows-foliage"
+          },
+          "hover_event": {"action": "show_text", "value": "Open Modrinth in Browser..."}
+        },
+        " ",
+        {
+          "text": "[ CurseForge ]",
+          "color": "#f16436",
+          "underlined": true,
+          "click_event": {
+            "action": "open_url",
+            "url": "https://www.curseforge.com/minecraft/texture-packs/rainbows-foliage"
+          },
+          "hover_event": {"action": "show_text", "value": "Open CurseForge in Browser..."}
+        },
+        "\n",
+        "vanilla edition: ",
+        {
+          "text": "[ Modrinth ]",
+          "color": "#1bd96a",
+          "underlined": true,
+          "click_event": {
+            "action": "open_url",
+            "url": "https://modrinth.com/project/rainbows-foliage-vanilla-edition"
+          },
+          "hover_event": {"action": "show_text", "value": "Open Modrinth in Browser..."}
+        },
+        " ",
+        {
+          "text": "[ CurseForge ]",
+          "color": "#f16436",
+          "underlined": true,
+          "click_event": {
+            "action": "open_url",
+            "url": "https://www.curseforge.com/minecraft/texture-packs/rainbows-foliage-vanilla-edition"
+          },
+          "hover_event": {"action": "show_text", "value": "Open CurseForge in Browser..."}
+        },
+        "\n",
+        "\n",
+        {
+          "text": "Check out more from PoeticRainbow!",
+          "bold": true,
+          "underlined": true
+        },
+        "\n",
+        "\n",
+        {
+          "text": "[ Website ]",
+          "color": "#e7c12e",
+          "underlined": true,
+          "click_event": {
+            "action": "open_url",
+            "url": "https://poeticrainbow.github.io/"
+          },
+          "hover_event": {"action": "show_text", "value": "Open PoeticRainbow's website in Browser..."}
+        },
+        " ",
+        {
+          "text": "[ Modrinth ]",
+          "color": "#1bd96a",
+          "underlined": true,
+          "click_event": {
+            "action": "open_url",
+            "url": "https://modrinth.com/user/PoeticRainbow"
+          },
+          "hover_event": {"action": "show_text", "value": "Open Modrinth in Browser..."}
+        },
+        " ",
+        {
+          "text": "[ CurseForge ]",
+          "color": "#f16436",
+          "underlined": true,
+          "click_event": {
+            "action": "open_url",
+            "url": "https://www.curseforge.com/members/thepoeticrainbow/projects"
+          },
+          "hover_event": {"action": "show_text", "value": "Open CurseForge in Browser..."}
+        }
+      ]
+    }
   }
 }
