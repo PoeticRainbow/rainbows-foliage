@@ -47,6 +47,9 @@
     "content": {
       "text": "",
       "extra": [
+        {"text": "\ue000", "font": "rainbowsfoliage:logo", "color": "white"},
+        "\n",
+        "\n",
         {
           "text": "a resource pack all about adding detail and variation to vegetation and other blocks. split into two versions, one that is compatible with Vanilla and another which requires the PolyTone mod. the vanilla edition currently only changes leaves, while the polytone edition affects a large number of plants.",
           "color": "white"
@@ -75,7 +78,10 @@
             "action": "open_url",
             "url": "https://modrinth.com/resourcepack/rainbows-foliage"
           },
-          "hover_event": {"action": "show_text", "value": "Open Modrinth in Browser..."}
+          "hover_event": {
+            "action": "show_text",
+            "value": "Open Modrinth in Browser..."
+          }
         },
         " ",
         {
@@ -86,7 +92,10 @@
             "action": "open_url",
             "url": "https://www.curseforge.com/minecraft/texture-packs/rainbows-foliage"
           },
-          "hover_event": {"action": "show_text", "value": "Open CurseForge in Browser..."}
+          "hover_event": {
+            "action": "show_text",
+            "value": "Open CurseForge in Browser..."
+          }
         },
         "\n",
         "vanilla edition: ",
@@ -98,7 +107,10 @@
             "action": "open_url",
             "url": "https://modrinth.com/project/rainbows-foliage-vanilla-edition"
           },
-          "hover_event": {"action": "show_text", "value": "Open Modrinth in Browser..."}
+          "hover_event": {
+            "action": "show_text",
+            "value": "Open Modrinth in Browser..."
+          }
         },
         " ",
         {
@@ -109,7 +121,10 @@
             "action": "open_url",
             "url": "https://www.curseforge.com/minecraft/texture-packs/rainbows-foliage-vanilla-edition"
           },
-          "hover_event": {"action": "show_text", "value": "Open CurseForge in Browser..."}
+          "hover_event": {
+            "action": "show_text",
+            "value": "Open CurseForge in Browser..."
+          }
         },
         "\n",
         "\n",
@@ -128,7 +143,10 @@
             "action": "open_url",
             "url": "https://poeticrainbow.github.io/"
           },
-          "hover_event": {"action": "show_text", "value": "Open PoeticRainbow's website in Browser..."}
+          "hover_event": {
+            "action": "show_text",
+            "value": "Open PoeticRainbow's website in Browser..."
+          }
         },
         " ",
         {
@@ -139,7 +157,10 @@
             "action": "open_url",
             "url": "https://modrinth.com/user/PoeticRainbow"
           },
-          "hover_event": {"action": "show_text", "value": "Open Modrinth in Browser..."}
+          "hover_event": {
+            "action": "show_text",
+            "value": "Open Modrinth in Browser..."
+          }
         },
         " ",
         {
@@ -150,7 +171,10 @@
             "action": "open_url",
             "url": "https://www.curseforge.com/members/thepoeticrainbow/projects"
           },
-          "hover_event": {"action": "show_text", "value": "Open CurseForge in Browser..."}
+          "hover_event": {
+            "action": "show_text",
+            "value": "Open CurseForge in Browser..."
+          }
         }
       ]
     }

@@ -1,0 +1,11 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "rainbowsfoliage:font/logo.png",
+      "height": 64,
+      "ascent": 64,
+      "chars": ["\ue000"]
+    }
+  ]
+}
