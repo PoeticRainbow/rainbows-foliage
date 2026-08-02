@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "": {
+      "type": "polytone:expression",
+      "fabric:type": "polytone:expression",
+      "selector": "o.down().hasBlockTag('minecraft:leaves')",
+      "cases": [
+        {"when": "v", "model": {"model": "rainbowsfoliage:block/snow_block"}}
+      ],
+      "fallback": {"model": "minecraft:block/snow_block"},
+      "model": "minecraft:block/snow_block"
+    }
+  }
+}

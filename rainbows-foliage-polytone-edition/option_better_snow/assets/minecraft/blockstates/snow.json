@@ -1,0 +1,93 @@
+{
+  "variants": {
+    "layers=1": {
+      "type": "polytone:expression",
+      "fabric:type": "polytone:expression",
+      "selector": "o.down().hasBlockTag('minecraft:leaves')",
+      "cases": [
+        {"when": "v", "model": {"model": "rainbowsfoliage:block/snow_height2"}}
+      ],
+      "fallback": {"model": "minecraft:block/snow_height2"},
+      "model": "minecraft:block/snow_height2"
+    },
+    "layers=2": {
+      "type": "polytone:expression",
+      "fabric:type": "polytone:expression",
+      "selector": "o.down().hasBlockTag('minecraft:leaves')",
+      "cases": [
+        {"when": "v", "model": {"model": "rainbowsfoliage:block/snow_height4"}}
+      ],
+      "fallback": {"model": "minecraft:block/snow_height4"},
+      "model": "minecraft:block/snow_height4"
+    },
+    "layers=3": {
+      "type": "polytone:expression",
+      "fabric:type": "polytone:expression",
+      "selector": "o.down().hasBlockTag('minecraft:leaves')",
+      "cases": [
+        {"when": "v", "model": {"model": "rainbowsfoliage:block/snow_height6"}}
+      ],
+      "fallback": {"model": "minecraft:block/snow_height6"},
+      "model": "minecraft:block/snow_height6"
+    },
+    "layers=4": {
+      "type": "polytone:expression",
+      "fabric:type": "polytone:expression",
+      "selector": "o.down().hasBlockTag('minecraft:leaves')",
+      "cases": [
+        {"when": "v", "model": {"model": "rainbowsfoliage:block/snow_height8"}}
+      ],
+      "fallback": {"model": "minecraft:block/snow_height8"},
+      "model": "minecraft:block/snow_height8"
+    },
+    "layers=5": {
+      "type": "polytone:expression",
+      "fabric:type": "polytone:expression",
+      "selector": "o.down().hasBlockTag('minecraft:leaves')",
+      "cases": [
+        {
+          "when": "v",
+          "model": {"model": "rainbowsfoliage:block/snow_height10"}
+        }
+      ],
+      "fallback": {"model": "minecraft:block/snow_height10"},
+      "model": "minecraft:block/snow_height10"
+    },
+    "layers=6": {
+      "type": "polytone:expression",
+      "fabric:type": "polytone:expression",
+      "selector": "o.down().hasBlockTag('minecraft:leaves')",
+      "cases": [
+        {
+          "when": "v",
+          "model": {"model": "rainbowsfoliage:block/snow_height12"}
+        }
+      ],
+      "fallback": {"model": "minecraft:block/snow_height12"},
+      "model": "minecraft:block/snow_height12"
+    },
+    "layers=7": {
+      "type": "polytone:expression",
+      "fabric:type": "polytone:expression",
+      "selector": "o.down().hasBlockTag('minecraft:leaves')",
+      "cases": [
+        {
+          "when": "v",
+          "model": {"model": "rainbowsfoliage:block/snow_height14"}
+        }
+      ],
+      "fallback": {"model": "minecraft:block/snow_height14"},
+      "model": "minecraft:block/snow_height14"
+    },
+    "layers=8": {
+      "type": "polytone:expression",
+      "fabric:type": "polytone:expression",
+      "selector": "o.down().hasBlockTag('minecraft:leaves')",
+      "cases": [
+        {"when": "v", "model": {"model": "rainbowsfoliage:block/snow_block"}}
+      ],
+      "fallback": {"model": "minecraft:block/snow_block"},
+      "model": "minecraft:block/snow_block"
+    }
+  }
+}

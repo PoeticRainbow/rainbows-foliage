@@ -2,6 +2,8 @@
   "config.rainbowsfoliage.header": "rainbow's foliage",
   "config.rainbowsfoliage.extra_bushy": "Extra Bushy",
   "config.rainbowsfoliage.extra_bushy.tooltip": "Will cause lag on weaker systems!\n(Might double performance impact)",
+  "config.rainbowsfoliage.better_snow": "Better Snow",
+  "config.rainbowsfoliage.better_snow.tooltip": "When enabled, Snow will have an overlay texture when on top of Leaves",
   "config.rainbowsfoliage.rotate_plants": "Rotate Plants",
   "config.rainbowsfoliage.rotate_plants.tooltip": "Adds rotation to plants like Short Grass, Flowers, Seagrass, and also Cobwebs",
   "config.rainbowsfoliage.force_enable_pbr": "Force Enable PBR",
