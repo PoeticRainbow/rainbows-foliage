@@ -1,0 +1,5 @@
+{
+  "default_value": "bushy",
+  "allowed_values": ["bushy", "bushier", "bushiest"],
+  "display_order": 0
+}

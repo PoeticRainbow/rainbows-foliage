@@ -16,8 +16,15 @@
         "max_format": 0
       },
       {
-        "directory": "option_extra_bushy",
-        "polytone_condition": "config('rainbowsfoliage:extra_bushy')",
+        "directory": "option_bushiness_bushiest",
+        "polytone_condition": "config('rainbowsfoliage:bushiness') == 'bushiest'",
+        "formats": [0, 0],
+        "min_format": 0,
+        "max_format": 0
+      },
+      {
+        "directory": "option_bushiness_bushier",
+        "polytone_condition": "config('rainbowsfoliage:bushiness') == 'bushier'",
         "formats": [0, 0],
         "min_format": 0,
         "max_format": 0
@@ -44,15 +51,22 @@
         "max_format": 0
       },
       {
-        "directory": "option_wavy_leaves_regular",
-        "polytone_condition": "config('rainbowsfoliage:wavy_leaves_compat') && !config('rainbowsfoliage:extra_bushy')",
+        "directory": "option_wavy_leaves_bushiest",
+        "polytone_condition": "config('rainbowsfoliage:wavy_leaves_compat') && config('rainbowsfoliage:bushiness') == 'bushiest'",
         "formats": [0, 0],
         "min_format": 0,
         "max_format": 0
       },
       {
-        "directory": "option_wavy_leaves_extra_bushy",
-        "polytone_condition": "config('rainbowsfoliage:wavy_leaves_compat') && config('rainbowsfoliage:extra_bushy')",
+        "directory": "option_wavy_leaves_bushier",
+        "polytone_condition": "config('rainbowsfoliage:wavy_leaves_compat') && config('rainbowsfoliage:bushiness') == 'bushier'",
+        "formats": [0, 0],
+        "min_format": 0,
+        "max_format": 0
+      },
+      {
+        "directory": "option_wavy_leaves_bushy",
+        "polytone_condition": "config('rainbowsfoliage:wavy_leaves_compat') && config('rainbowsfoliage:bushiness') == 'bushy'",
         "formats": [0, 0],
         "min_format": 0,
         "max_format": 0
@@ -68,7 +82,7 @@
     "content": {
       "text": "",
       "extra": [
-        {"text": "\ue000", "font": "rainbowsfoliage:logo", "color": "white"},
+        {"text": "", "font": "rainbowsfoliage:logo", "color": "white"},
         "\n",
         "\n",
         {
