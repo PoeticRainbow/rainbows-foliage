@@ -1,1 +1,1 @@
-{"texture": {"mipmap_strategy": "dark_cutout"}}
+{"animation": {"frametime": 6, "interpolate": true, "frames": [0, 1, 2, 3], "width": 64, "height": 32}, "texture": {"mipmap_strategy": "dark_cutout"}}
