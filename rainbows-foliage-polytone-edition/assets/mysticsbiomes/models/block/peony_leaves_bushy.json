@@ -1,0 +1,1 @@
+{"parent": "block/template_leaves", "render_type": "minecraft:cutout_mipped", "textures": {"all": "mysticsbiomes:block/peony_leaves", "bushy": "mysticsbiomes:block/peony_leaves_bushy"}}
