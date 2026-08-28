@@ -16,6 +16,13 @@
         "max_format": 0
       },
       {
+        "directory": "mod_tfc_4",
+        "polytone_condition": "modOn('tfc', '[4.0, )')",
+        "formats": [0, 0],
+        "min_format": 0,
+        "max_format": 0
+      },
+      {
         "directory": "option_bushiness_bushiest",
         "polytone_condition": "config('rainbowsfoliage:bushiness') == 'bushiest'",
         "formats": [0, 0],

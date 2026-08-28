@@ -1,0 +1,1 @@
+{"loader": "tfc:leaves", "dense_leaves": {"parent": "tfc:block/wood/leaves/dense_leaves/chestnut_bushy"}, "sparse_leaves": {"parent": "tfc:block/wood/leaves/sparse_leaves/chestnut_bushy"}, "bare": {"parent": "tfc:block/wood/leaves/bare/chestnut_bushy"}, "blooming": {"parent": "tfc:block/wood/leaves/blooming/chestnut_1_bushy"}}

@@ -1,0 +1,1 @@
+{"loader": "tfc:leaves", "dense_leaves": {"parent": "tfc:block/wood/leaves/dense_leaves/white_cedar_bushy"}, "sparse_leaves": {"parent": "tfc:block/wood/leaves/sparse_leaves/white_cedar_bushy"}, "bare": {"parent": "tfc:block/wood/leaves/bare/white_cedar_bushy"}, "blooming": {"parent": "tfc:block/wood/leaves/blooming/white_cedar_bushy"}}
