@@ -1,0 +1,1 @@
+{"parent": "block/template_leaves", "render_type": "minecraft:cutout_mipped", "textures": {"bottom": "eternal_starlight:block/northland_leaves", "side": "eternal_starlight:block/northland_leaves_snowy_bushy", "top": "eternal_starlight:block/northland_leaves", "all": "eternal_starlight:block/northland_leaves", "bushy": "eternal_starlight:block/northland_leaves_bushy"}}
