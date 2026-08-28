@@ -1,0 +1,1 @@
+{"parent": "block/template_leaves", "render_type": "minecraft:cutout", "textures": {"all": "cluttered:block/sycamore_leaves", "bushy": "cluttered:block/sycamore_leaves_bushy"}}
