@@ -1,0 +1,1 @@
+{"__comment__": "This file was automatically created by mcresources", "parent": "block/template_leaves_overlay", "textures": {"leaves": "afc:block/wood/leaves/dense_leaves/acacia_koa", "overlay": "afc:block/wood/leaves/blooming/acacia_koa_bushy", "all": "afc:block/wood/leaves/dense_leaves/acacia_koa", "bushy": "afc:block/wood/leaves/dense_leaves/acacia_koa_bushy"}}

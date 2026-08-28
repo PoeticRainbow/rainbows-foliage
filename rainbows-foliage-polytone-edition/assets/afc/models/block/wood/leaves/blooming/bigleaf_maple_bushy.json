@@ -1,0 +1,1 @@
+{"__comment__": "This file was automatically created by mcresources", "parent": "block/template_leaves_overlay", "textures": {"leaves": "afc:block/wood/leaves/sparse_leaves/bigleaf_maple", "overlay": "afc:block/wood/leaves/blooming/bigleaf_maple_bushy", "all": "afc:block/wood/leaves/sparse_leaves/bigleaf_maple", "bushy": "afc:block/wood/leaves/sparse_leaves/bigleaf_maple_bushy"}}
