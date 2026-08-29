@@ -1,15 +1,14 @@
 {
   "type": "gpu",
   "render_type": "cutout",
-  "texture": "rainbowsfoliage:textures/particle/tinted_grass.png",
+  "texture": "rainbowsfoliage:textures/particle/moss_grass.png",
   "frames": 8,
   "random_sprite": true,
   "rotation_mode": "look_at_y",
   "chance": 1.0,
   "initializer": {
     "size": "0.5 + r.noise('rainbowsfoliage:grass_height', o.x(), o.z()) * 0.03125",
-    "lifetime": "1200",
-    "colormap": "minecraft:grass_color"
+    "lifetime": "1200"
   },
   "area": {"size": [1.0, 0.0625, 1.0], "count": 4},
   "fade": [0.033, 0.033],

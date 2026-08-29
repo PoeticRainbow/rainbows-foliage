@@ -1,8 +1,8 @@
 {
-  "targets": ["minecraft:grass_block"],
+  "targets": ["minecraft:pale_moss_block"],
   "particle_emitters": [
     {
-      "particle": "rainbowsfoliage:tinted_grass",
+      "particle": "rainbowsfoliage:pale_moss_grass",
       "chance": "o.up().hasAirAt() ? 0.5 + r.noise('rainbowsfoliage:grass_height', o.x(), o.z()) * 0.25 : 0.0",
       "x": "0",
       "z": "0",

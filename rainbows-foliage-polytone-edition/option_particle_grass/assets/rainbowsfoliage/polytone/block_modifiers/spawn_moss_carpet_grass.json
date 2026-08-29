@@ -1,0 +1,15 @@
+{
+  "targets": ["minecraft:moss_carpet"],
+  "particle_emitters": [
+    {
+      "particle": "rainbowsfoliage:moss_carpet_grass",
+      "chance": "0.5 + r.noise('rainbowsfoliage:grass_height', o.x(), o.z()) * 0.25",
+      "x": "0",
+      "z": "0",
+      "y": "0.0",
+      "dx": "0",
+      "dy": "0",
+      "dz": "0"
+    }
+  ]
+}
