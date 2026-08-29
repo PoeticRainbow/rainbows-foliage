@@ -9,6 +9,8 @@
   "config.rainbowsfoliage.force_enable_pbr": "§eForce Enable PBR§r",
   "config.rainbowsfoliage.force_enable_pbr.tooltip": "Forces the labPBR support to load.\n\nAutomatically loads when Iris or Oculus are installed.",
   "config.rainbowsfoliage.header": "rainbow's foliage",
+  "config.rainbowsfoliage.particle_grass": "§aParticle Grass§r",
+  "config.rainbowsfoliage.particle_grass.tooltip": "When enabled, GPU-driven blades of grass will spawn atop Grass Blocks. Does not work with shaders.",
   "config.rainbowsfoliage.rotate_plants": "§aRotate Plants§r",
   "config.rainbowsfoliage.rotate_plants.tooltip": "Adds rotation to plants like Short Grass, Flowers, Seagrass, and also Cobwebs",
   "config.rainbowsfoliage.wavy_leaves_compat": "§bWavy Leaves Compat§r",
