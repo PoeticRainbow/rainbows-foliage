@@ -8,7 +8,12 @@
       "shade": false,
       "rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
       "faces": {
-        "east": {"uv": [0, 0, 8, 16], "texture": "#side", "tintindex": 0}
+        "east": {
+          "uv": [0, 0, 8, 16],
+          "texture": "#side",
+          "cullface": "east",
+          "tintindex": 0
+        }
       }
     },
     {
@@ -17,7 +22,12 @@
       "shade": false,
       "rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
       "faces": {
-        "west": {"uv": [0, 0, 8, 16], "texture": "#side", "tintindex": 0}
+        "west": {
+          "uv": [0, 0, 8, 16],
+          "texture": "#side",
+          "cullface": "west",
+          "tintindex": 0
+        }
       }
     },
     {
@@ -26,7 +36,12 @@
       "shade": false,
       "rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
       "faces": {
-        "north": {"uv": [0, 0, 8, 16], "texture": "#side", "tintindex": 0}
+        "north": {
+          "uv": [0, 0, 8, 16],
+          "texture": "#side",
+          "cullface": "north",
+          "tintindex": 0
+        }
       }
     },
     {
@@ -35,7 +50,12 @@
       "shade": false,
       "rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
       "faces": {
-        "south": {"uv": [0, 0, 8, 16], "texture": "#side", "tintindex": 0}
+        "south": {
+          "uv": [0, 0, 8, 16],
+          "texture": "#side",
+          "cullface": "south",
+          "tintindex": 0
+        }
       }
     },
     {
@@ -44,7 +64,12 @@
       "shade": false,
       "rotation": {"angle": -45, "axis": "y", "origin": [8, 8, 8]},
       "faces": {
-        "up": {"uv": [0, 0, 8, 16], "texture": "#bushy", "tintindex": 0}
+        "up": {
+          "uv": [0, 0, 8, 16],
+          "texture": "#side",
+          "cullface": "up",
+          "tintindex": 0
+        }
       }
     },
     {
@@ -53,7 +78,12 @@
       "shade": false,
       "rotation": {"angle": -45, "axis": "y", "origin": [8, 8, 8]},
       "faces": {
-        "down": {"uv": [0, 0, 8, 16], "texture": "#bushy", "tintindex": 0}
+        "down": {
+          "uv": [0, 0, 8, 16],
+          "texture": "#side",
+          "cullface": "down",
+          "tintindex": 0
+        }
       }
     }
   ]
