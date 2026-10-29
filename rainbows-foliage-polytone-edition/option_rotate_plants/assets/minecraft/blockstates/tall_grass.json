@@ -3,175 +3,141 @@
     "half=lower": [
       {
         "model": "minecraft:block/tall_grass_bottom",
-        "y": -40,
-        "yoffset": -0.2
+        "y": -40
       },
       {
         "model": "minecraft:block/tall_grass_bottom",
-        "y": -35,
-        "yoffset": -0.08
+        "y": -35
       },
       {
         "model": "minecraft:block/tall_grass_bottom",
-        "y": -30,
-        "yoffset": -0.29
+        "y": -30
       },
       {
         "model": "minecraft:block/tall_grass_bottom",
-        "y": -25,
-        "yoffset": -0.44
+        "y": -25
       },
       {
         "model": "minecraft:block/tall_grass_bottom",
-        "y": -20,
-        "yoffset": -0.06
+        "y": -20
       },
       {
         "model": "minecraft:block/tall_grass_bottom",
-        "y": -15,
-        "yoffset": -0.24
+        "y": -15
       },
       {
         "model": "minecraft:block/tall_grass_bottom",
-        "y": -10,
-        "yoffset": -0.47
+        "y": -10
       },
       {
         "model": "minecraft:block/tall_grass_bottom",
-        "y": -5,
-        "yoffset": -0.4
+        "y": -5
       },
       {
         "model": "minecraft:block/tall_grass_bottom",
-        "y": 0,
-        "yoffset": -0.09
+        "y": 0
       },
       {
         "model": "minecraft:block/tall_grass_bottom",
-        "y": 5,
-        "yoffset": -0.09
+        "y": 5
       },
       {
         "model": "minecraft:block/tall_grass_bottom",
-        "y": 10,
-        "yoffset": -0.27
+        "y": 10
       },
       {
         "model": "minecraft:block/tall_grass_bottom",
-        "y": 15,
-        "yoffset": -0.41
+        "y": 15
       },
       {
         "model": "minecraft:block/tall_grass_bottom",
-        "y": 20,
-        "yoffset": -0.16
+        "y": 20
       },
       {
         "model": "minecraft:block/tall_grass_bottom",
-        "y": 25,
-        "yoffset": -0.47
+        "y": 25
       },
       {
         "model": "minecraft:block/tall_grass_bottom",
-        "y": 30,
-        "yoffset": -0.05
+        "y": 30
       },
       {
         "model": "minecraft:block/tall_grass_bottom",
-        "y": 35,
-        "yoffset": -0.15
+        "y": 35
       },
       {
         "model": "minecraft:block/tall_grass_bottom",
-        "y": 40,
-        "yoffset": -0.16
+        "y": 40
       }
     ],
     "half=upper": [
       {
         "model": "minecraft:block/tall_grass_top",
-        "y": -40,
-        "yoffset": -0.13
+        "y": -40
       },
       {
         "model": "minecraft:block/tall_grass_top",
-        "y": -35,
-        "yoffset": -0.07
+        "y": -35
       },
       {
         "model": "minecraft:block/tall_grass_top",
-        "y": -30,
-        "yoffset": -0.32
+        "y": -30
       },
       {
         "model": "minecraft:block/tall_grass_top",
-        "y": -25,
-        "yoffset": -0.14
+        "y": -25
       },
       {
         "model": "minecraft:block/tall_grass_top",
-        "y": -20,
-        "yoffset": -0.31
+        "y": -20
       },
       {
         "model": "minecraft:block/tall_grass_top",
-        "y": -15,
-        "yoffset": -0.15
+        "y": -15
       },
       {
         "model": "minecraft:block/tall_grass_top",
-        "y": -10,
-        "yoffset": -0.29
+        "y": -10
       },
       {
         "model": "minecraft:block/tall_grass_top",
-        "y": -5,
-        "yoffset": -0.46
+        "y": -5
       },
       {
         "model": "minecraft:block/tall_grass_top",
-        "y": 0,
-        "yoffset": -0.04
+        "y": 0
       },
       {
         "model": "minecraft:block/tall_grass_top",
-        "y": 5,
-        "yoffset": -0.2
+        "y": 5
       },
       {
         "model": "minecraft:block/tall_grass_top",
-        "y": 10,
-        "yoffset": -0.45
+        "y": 10
       },
       {
         "model": "minecraft:block/tall_grass_top",
-        "y": 15,
-        "yoffset": -0.27
+        "y": 15
       },
       {
         "model": "minecraft:block/tall_grass_top",
-        "y": 20,
-        "yoffset": -0.42
+        "y": 20
       },
       {
         "model": "minecraft:block/tall_grass_top",
-        "y": 25,
-        "yoffset": -0.36
+        "y": 25
       },
       {
         "model": "minecraft:block/tall_grass_top",
-        "y": 30,
-        "yoffset": -0.32
+        "y": 30
       },
       {
         "model": "minecraft:block/tall_grass_top",
-        "y": 35,
-        "yoffset": -0.09
+        "y": 35
       },
       {
         "model": "minecraft:block/tall_grass_top",
-        "y": 40,
-        "yoffset": -0.05
+        "y": 40
       }
     ]
   }

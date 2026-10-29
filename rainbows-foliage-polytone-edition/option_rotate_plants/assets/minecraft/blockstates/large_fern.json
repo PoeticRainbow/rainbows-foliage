@@ -3,175 +3,141 @@
     "half=lower": [
       {
         "model": "minecraft:block/large_fern_bottom",
-        "y": -40,
-        "yoffset": -0.38
+        "y": -40
       },
       {
         "model": "minecraft:block/large_fern_bottom",
-        "y": -35,
-        "yoffset": -0.44
+        "y": -35
       },
       {
         "model": "minecraft:block/large_fern_bottom",
-        "y": -30,
-        "yoffset": -0.26
+        "y": -30
       },
       {
         "model": "minecraft:block/large_fern_bottom",
-        "y": -25,
-        "yoffset": -0.41
+        "y": -25
       },
       {
         "model": "minecraft:block/large_fern_bottom",
-        "y": -20,
-        "yoffset": -0.29
+        "y": -20
       },
       {
         "model": "minecraft:block/large_fern_bottom",
-        "y": -15,
-        "yoffset": -0.1
+        "y": -15
       },
       {
         "model": "minecraft:block/large_fern_bottom",
-        "y": -10,
-        "yoffset": -0.17
+        "y": -10
       },
       {
         "model": "minecraft:block/large_fern_bottom",
-        "y": -5,
-        "yoffset": -0.16
+        "y": -5
       },
       {
         "model": "minecraft:block/large_fern_bottom",
-        "y": 0,
-        "yoffset": -0.43
+        "y": 0
       },
       {
         "model": "minecraft:block/large_fern_bottom",
-        "y": 5,
-        "yoffset": -0.26
+        "y": 5
       },
       {
         "model": "minecraft:block/large_fern_bottom",
-        "y": 10,
-        "yoffset": -0.32
+        "y": 10
       },
       {
         "model": "minecraft:block/large_fern_bottom",
-        "y": 15,
-        "yoffset": -0.16
+        "y": 15
       },
       {
         "model": "minecraft:block/large_fern_bottom",
-        "y": 20,
-        "yoffset": -0.11
+        "y": 20
       },
       {
         "model": "minecraft:block/large_fern_bottom",
-        "y": 25,
-        "yoffset": -0.01
+        "y": 25
       },
       {
         "model": "minecraft:block/large_fern_bottom",
-        "y": 30,
-        "yoffset": -0.48
+        "y": 30
       },
       {
         "model": "minecraft:block/large_fern_bottom",
-        "y": 35,
-        "yoffset": -0.35
+        "y": 35
       },
       {
         "model": "minecraft:block/large_fern_bottom",
-        "y": 40,
-        "yoffset": -0.33
+        "y": 40
       }
     ],
     "half=upper": [
       {
         "model": "minecraft:block/large_fern_top",
-        "y": -40,
-        "yoffset": -0.02
+        "y": -40
       },
       {
         "model": "minecraft:block/large_fern_top",
-        "y": -35,
-        "yoffset": -0.13
+        "y": -35
       },
       {
         "model": "minecraft:block/large_fern_top",
-        "y": -30,
-        "yoffset": -0.15
+        "y": -30
       },
       {
         "model": "minecraft:block/large_fern_top",
-        "y": -25,
-        "yoffset": -0.2
+        "y": -25
       },
       {
         "model": "minecraft:block/large_fern_top",
-        "y": -20,
-        "yoffset": -0.23
+        "y": -20
       },
       {
         "model": "minecraft:block/large_fern_top",
-        "y": -15,
-        "yoffset": -0.34
+        "y": -15
       },
       {
         "model": "minecraft:block/large_fern_top",
-        "y": -10,
-        "yoffset": -0.26
+        "y": -10
       },
       {
         "model": "minecraft:block/large_fern_top",
-        "y": -5,
-        "yoffset": -0.15
+        "y": -5
       },
       {
         "model": "minecraft:block/large_fern_top",
-        "y": 0,
-        "yoffset": -0.34
+        "y": 0
       },
       {
         "model": "minecraft:block/large_fern_top",
-        "y": 5,
-        "yoffset": -0.23
+        "y": 5
       },
       {
         "model": "minecraft:block/large_fern_top",
-        "y": 10,
-        "yoffset": -0.27
+        "y": 10
       },
       {
         "model": "minecraft:block/large_fern_top",
-        "y": 15,
-        "yoffset": -0.5
+        "y": 15
       },
       {
         "model": "minecraft:block/large_fern_top",
-        "y": 20,
-        "yoffset": -0.1
+        "y": 20
       },
       {
         "model": "minecraft:block/large_fern_top",
-        "y": 25,
-        "yoffset": -0.27
+        "y": 25
       },
       {
         "model": "minecraft:block/large_fern_top",
-        "y": 30,
-        "yoffset": -0.29
+        "y": 30
       },
       {
         "model": "minecraft:block/large_fern_top",
-        "y": 35,
-        "yoffset": -0.09
+        "y": 35
       },
       {
         "model": "minecraft:block/large_fern_top",
-        "y": 40,
-        "yoffset": -0.11
+        "y": 40
       }
     ]
   }
