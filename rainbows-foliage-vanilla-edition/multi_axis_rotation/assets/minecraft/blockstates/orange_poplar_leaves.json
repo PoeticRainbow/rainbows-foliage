@@ -1,0 +1,38 @@
+{
+  "variants": {
+    "": [
+      {"model": "block/orange_poplar/0"},
+      {"model": "block/orange_poplar/1"},
+      {"model": "block/orange_poplar/2"},
+      {"model": "block/orange_poplar/3"},
+      {"model": "block/orange_poplar/4"},
+      {"model": "block/orange_poplar/5"},
+      {"model": "block/orange_poplar/6"},
+      {"model": "block/orange_poplar/7"},
+      {"model": "block/orange_poplar/8"},
+      {"model": "block/orange_poplar/9"},
+      {"model": "block/orange_poplar/10"},
+      {"model": "block/orange_poplar/11"},
+      {"model": "block/orange_poplar/12"},
+      {"model": "block/orange_poplar/13"},
+      {"model": "block/orange_poplar/14"},
+      {"model": "block/orange_poplar/15"},
+      {"model": "block/orange_poplar/16"},
+      {"model": "block/orange_poplar/17"},
+      {"model": "block/orange_poplar/18"},
+      {"model": "block/orange_poplar/19"},
+      {"model": "block/orange_poplar/20"},
+      {"model": "block/orange_poplar/21"},
+      {"model": "block/orange_poplar/22"},
+      {"model": "block/orange_poplar/23"},
+      {"model": "block/orange_poplar/24"},
+      {"model": "block/orange_poplar/25"},
+      {"model": "block/orange_poplar/26"},
+      {"model": "block/orange_poplar/27"},
+      {"model": "block/orange_poplar/28"},
+      {"model": "block/orange_poplar/29"},
+      {"model": "block/orange_poplar/30"},
+      {"model": "block/orange_poplar/31"}
+    ]
+  }
+}

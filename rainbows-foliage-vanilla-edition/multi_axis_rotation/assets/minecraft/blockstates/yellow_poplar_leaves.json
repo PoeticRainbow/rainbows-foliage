@@ -1,0 +1,38 @@
+{
+  "variants": {
+    "": [
+      {"model": "block/yellow_poplar/0"},
+      {"model": "block/yellow_poplar/1"},
+      {"model": "block/yellow_poplar/2"},
+      {"model": "block/yellow_poplar/3"},
+      {"model": "block/yellow_poplar/4"},
+      {"model": "block/yellow_poplar/5"},
+      {"model": "block/yellow_poplar/6"},
+      {"model": "block/yellow_poplar/7"},
+      {"model": "block/yellow_poplar/8"},
+      {"model": "block/yellow_poplar/9"},
+      {"model": "block/yellow_poplar/10"},
+      {"model": "block/yellow_poplar/11"},
+      {"model": "block/yellow_poplar/12"},
+      {"model": "block/yellow_poplar/13"},
+      {"model": "block/yellow_poplar/14"},
+      {"model": "block/yellow_poplar/15"},
+      {"model": "block/yellow_poplar/16"},
+      {"model": "block/yellow_poplar/17"},
+      {"model": "block/yellow_poplar/18"},
+      {"model": "block/yellow_poplar/19"},
+      {"model": "block/yellow_poplar/20"},
+      {"model": "block/yellow_poplar/21"},
+      {"model": "block/yellow_poplar/22"},
+      {"model": "block/yellow_poplar/23"},
+      {"model": "block/yellow_poplar/24"},
+      {"model": "block/yellow_poplar/25"},
+      {"model": "block/yellow_poplar/26"},
+      {"model": "block/yellow_poplar/27"},
+      {"model": "block/yellow_poplar/28"},
+      {"model": "block/yellow_poplar/29"},
+      {"model": "block/yellow_poplar/30"},
+      {"model": "block/yellow_poplar/31"}
+    ]
+  }
+}
