@@ -1,4 +1,4 @@
 {
-  "parent": "block/template_leaves/up_down_z_-20",
+  "parent": "block/template_leaves_no_tint/up_down_z_-20",
   "textures": {"all": "block/yellow_poplar_leaves_bushy"}
 }

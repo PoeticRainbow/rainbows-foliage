@@ -1,4 +1,4 @@
 {
-  "parent": "block/template_leaves/north_south_x_10",
+  "parent": "block/template_leaves_no_tint/north_south_x_10",
   "textures": {"all": "block/yellow_poplar_leaves_bushy"}
 }
